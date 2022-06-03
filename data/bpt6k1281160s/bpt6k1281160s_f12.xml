@@ -25,13 +25,13 @@
                   WIDTH="2214"
                   HEIGHT="3814">
         
-        <TextBlock HPOS="446"
-                   VPOS="381"
-                   WIDTH="1441"
-                   HEIGHT="2507"
-                   ID="eSc_textblock_eacb69b2"
-                   TAGREFS="BT2602">
-          <Shape><Polygon POINTS="446 381 462 2854 1887 2888 1859 382"/></Shape>
+        <TextBlock HPOS="448"
+                   VPOS="288"
+                   WIDTH="111"
+                   HEIGHT="89"
+                   ID="eSc_textblock_7ee158dc"
+                   TAGREFS="BT2604">
+          <Shape><Polygon POINTS="460 290 448 371 559 377 549 288"/></Shape>
           
           
           <TextLine ID="eSc_line_c2a65939"
@@ -50,22 +50,15 @@
           </TextLine>
 
           
-          
-          <TextLine ID="line_0"
-                    TAGREFS="LT928"
-                    BASELINE="697 349 1571 352" 
-                    HPOS="690"
-                    VPOS="241"
-                    WIDTH="878"
-                    HEIGHT="124">
-            <Shape><Polygon POINTS="696 346 696 244 785 263 849 247 871 241 874 241 877 241 938 251 1033 263 1126 254 1234 244 1237 244 1240 244 1243 244 1259 257 1266 263 1288 260 1348 247 1351 247 1355 247 1409 263 1418 263 1425 263 1507 241 1510 241 1514 241 1517 241 1568 266 1568 349 1561 365 690 359"/></Shape>
-	    <String CONTENT="La foire S. Germain,"
-                    HPOS="690"
-                    VPOS="241"
-                    WIDTH="878"
-                    HEIGHT="124"></String>
-          </TextLine>
-
+        </TextBlock>
+        
+        <TextBlock HPOS="448"
+                   VPOS="382"
+                   WIDTH="1439"
+                   HEIGHT="2506"
+                   ID="eSc_textblock_c4624438"
+                   TAGREFS="BT2602">
+          <Shape><Polygon POINTS="448 385 462 2854 1887 2888 1859 382"/></Shape>
           
           
           <TextLine ID="line_1"
@@ -255,23 +248,6 @@
 
           
           
-          <TextLine ID="line_14"
-                    TAGREFS="LT928"
-                    BASELINE="852 1474 1460 1474" 
-                    HPOS="849"
-                    VPOS="1404"
-                    WIDTH="611"
-                    HEIGHT="89">
-            <Shape><Polygon POINTS="852 1474 852 1404 1460 1404 1460 1474 1456 1493 849 1484"/></Shape>
-	    <String CONTENT="ARLLQUIN."
-                    HPOS="849"
-                    VPOS="1404"
-                    WIDTH="611"
-                    HEIGHT="89"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="line_12"
                     TAGREFS="LT926"
                     BASELINE="477 1547 772 1541" 
@@ -289,19 +265,19 @@
 
           
           
-          <TextLine ID="line_15"
+          <TextLine ID="line_14"
                     TAGREFS="LT928"
-                    BASELINE="827 1627 1501 1633" 
-                    HPOS="820"
-                    VPOS="1554"
-                    WIDTH="681"
-                    HEIGHT="114">
-            <Shape><Polygon POINTS="827 1627 827 1554 1501 1560 1501 1633 1498 1668 938 1668 935 1665 820 1643"/></Shape>
-	    <String CONTENT="COLOMBINE."
-                    HPOS="820"
-                    VPOS="1554"
-                    WIDTH="681"
-                    HEIGHT="114"></String>
+                    BASELINE="852 1474 1460 1474" 
+                    HPOS="849"
+                    VPOS="1404"
+                    WIDTH="611"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="852 1474 852 1404 1460 1404 1460 1474 1456 1493 849 1484"/></Shape>
+	    <String CONTENT="ARLLQUIN."
+                    HPOS="849"
+                    VPOS="1404"
+                    WIDTH="611"
+                    HEIGHT="89"></String>
           </TextLine>
 
           
@@ -319,6 +295,23 @@
                     VPOS="1620"
                     WIDTH="292"
                     HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT928"
+                    BASELINE="827 1627 1501 1633" 
+                    HPOS="820"
+                    VPOS="1554"
+                    WIDTH="681"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="827 1627 827 1554 1501 1560 1501 1633 1498 1668 938 1668 935 1665 820 1643"/></Shape>
+	    <String CONTENT="COLOMBINE."
+                    HPOS="820"
+                    VPOS="1554"
+                    WIDTH="681"
+                    HEIGHT="114"></String>
           </TextLine>
 
           
@@ -528,16 +521,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="448"
-                   VPOS="288"
-                   WIDTH="111"
-                   HEIGHT="89"
-                   ID="eSc_textblock_7ee158dc"
-                   TAGREFS="BT2604">
-          <Shape><Polygon POINTS="460 290 448 371 559 377 549 288"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="698"
                    VPOS="250"
                    WIDTH="860"
@@ -545,6 +528,23 @@
                    ID="eSc_textblock_93c78a16"
                    TAGREFS="BT2606">
           <Shape><Polygon POINTS="698 250 698 375 1558 367 1558 250"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT928"
+                    BASELINE="697 349 1571 352" 
+                    HPOS="690"
+                    VPOS="241"
+                    WIDTH="878"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="696 346 696 244 785 263 849 247 871 241 874 241 877 241 938 251 1033 263 1126 254 1234 244 1237 244 1240 244 1243 244 1259 257 1266 263 1288 260 1348 247 1351 247 1355 247 1409 263 1418 263 1425 263 1507 241 1510 241 1514 241 1517 241 1568 266 1568 349 1561 365 690 359"/></Shape>
+	    <String CONTENT="La foire S. Germain,"
+                    HPOS="690"
+                    VPOS="241"
+                    WIDTH="878"
+                    HEIGHT="124"></String>
+          </TextLine>
+
           
         </TextBlock>
         
