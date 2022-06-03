@@ -1,0 +1,52 @@
+schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+title: "Donn\xE9es imprim\xE9s du 18e si\xE8cle"
+description: "Corpus d'entrainement pour l'HTR constitu\xE9 d'imprim\xE9s du 18e si\xE8\
+  cle"
+url: https://github.com/Gallicorpora/HTR-imprime-18e-siecle
+authors:
+- name: Gabay
+  surname: Simon
+  roles:
+  - project-manager
+- name: Pinche
+  surname: Ariane
+  roles:
+  - project-manager
+- name: Fabert
+  surname: Eliott
+  roles:
+  - transcriber
+- name: Christensen
+  surname: Kelly
+  roles:
+  - support
+project-name: Gallicorpora
+project-website: https://github.com/Gallicorpora
+language:
+- frm
+- fra
+script:
+- Latn
+script-type: evenly-mixed
+time:
+  notBefore: '1699'
+  notAfter: '1700'
+hands:
+  count: 1-per-folder
+  precision: estimated
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+- metric: characters
+  count: 46854
+- metric: files
+  count: 80
+- metric: lines
+  count: 1828
+- metric: regions
+  count: 252
+transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
+  \ du projet Gallicorpora"
+citation-file-link: https://github.com/Gallicorpora/HTR-imprime-18e-siecle/CITATION.cff
