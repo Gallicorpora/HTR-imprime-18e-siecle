@@ -40,13 +40,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 46854
+  count: 98888
 - metric: files
-  count: 80
+  count: 100
 - metric: lines
-  count: 1828
+  count: 2914
 - metric: regions
-  count: 252
+  count: 380
 transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
   \ du projet Gallicorpora"
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-18e-siecle/CITATION.cff
