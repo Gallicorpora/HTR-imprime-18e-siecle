@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bpt6k15120824_f18.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3752" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2381" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2380" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2378" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2377" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2376" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2375" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2374" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2373" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2372" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2371" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="LT837" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT836" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT835" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3584"
+          HEIGHT="5696"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3584"
+                  HEIGHT="5696">
+        
+        <TextBlock HPOS="1409"
+                   VPOS="341"
+                   WIDTH="1288"
+                   HEIGHT="132"
+                   ID="block_0"
+                   TAGREFS="BT2378">
+          <Shape><Polygon POINTS="2577 341 2697 360 2682 465 2414 466 2079 473 1409 472 1424 360 1613 341"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT836"
+                    BASELINE="1438 446 2667 446" 
+                    HPOS="1433"
+                    VPOS="322"
+                    WIDTH="1234"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="1438 446 1438 322 2667 337 2667 446 2663 484 1433 474"/></Shape>
+	    <String CONTENT="PREFACE."
+                    HPOS="1433"
+                    VPOS="322"
+                    WIDTH="1234"
+                    HEIGHT="162"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="831"
+                   VPOS="484"
+                   WIDTH="2411"
+                   HEIGHT="4302"
+                   ID="eSc_textblock_8c15361d"
+                   TAGREFS="BT2374">
+          <Shape><Polygon POINTS="3242 550 3223 4786 2927 4786 2919 4779 854 4779 831 494 1958 492 2726 484"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT834"
+                    BASELINE="859 598 2193 593 3227 617" 
+                    HPOS="854"
+                    VPOS="488"
+                    WIDTH="2373"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="859 598 854 488 3204 517 3227 617 3223 631 854 631"/></Shape>
+	    <String CONTENT="I’Empire du Negus, ou Pretejan d’Ethiopie, qui eſt dans une partie"
+                    HPOS="854"
+                    VPOS="488"
+                    WIDTH="2373"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT834"
+                    BASELINE="859 693 1476 678" 
+                    HPOS="849"
+                    VPOS="602"
+                    WIDTH="627"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="859 693 849 621 1462 602 1476 678 1476 712 859 712"/></Shape>
+	    <String CONTENT="de cette étenduë."
+                    HPOS="849"
+                    VPOS="602"
+                    WIDTH="627"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT834"
+                    BASELINE="963 778 2221 768 3237 792" 
+                    HPOS="958"
+                    VPOS="659"
+                    WIDTH="2279"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="963 778 958 683 1552 693 1566 688 1623 659 1628 659 1632 659 1889 659 1894 659 1898 659 1946 688 1951 693 1965 688 2079 659 2083 659 2088 659 2093 659 2098 659 2145 688 2193 664 2197 664 2202 664 2345 693 2378 697 2425 693 2672 664 2677 664 2682 664 2686 664 2686 669 2715 697 2720 702 2886 702 2890 697 2976 664 2981 664 2985 664 2990 664 2995 664 2995 669 3028 697 3028 702 3232 702 3237 792 3232 802 958 811"/></Shape>
+	    <String CONTENT="Mais la deſcente qui ſe fait en des lieux où les hommes de l&#39;an¬"
+                    HPOS="958"
+                    VPOS="659"
+                    WIDTH="2279"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT834"
+                    BASELINE="863 854 3223 882" 
+                    HPOS="854"
+                    VPOS="768"
+                    WIDTH="2369"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="863 854 863 768 3218 797 3223 882 3213 906 854 868"/></Shape>
+	    <String CONTENT="cien Monde n’ont jamais mis le pied, eſt ſans doute de beaucoup"
+                    HPOS="854"
+                    VPOS="768"
+                    WIDTH="2369"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT834"
+                    BASELINE="863 949 3232 968" 
+                    HPOS="854"
+                    VPOS="854"
+                    WIDTH="2378"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="863 949 859 873 1452 854 1457 854 1462 854 1542 878 1557 878 1609 878 1932 859 1936 859 3232 892 3232 968 3223 987 854 977"/></Shape>
+	    <String CONTENT="plus grande conſideration. Or outre ce qui reſte à découvrir vers"
+                    HPOS="854"
+                    VPOS="854"
+                    WIDTH="2378"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT834"
+                    BASELINE="863 1039 3232 1063" 
+                    HPOS="854"
+                    VPOS="958"
+                    WIDTH="2378"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="863 1039 863 958 3232 982 3232 1063 3223 1072 854 1063"/></Shape>
+	    <String CONTENT="noſtre Pole Arctique, les Geographes font voir que du coſté de"
+                    HPOS="854"
+                    VPOS="958"
+                    WIDTH="2378"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT834"
+                    BASELINE="859 1120 3227 1153" 
+                    HPOS="849"
+                    VPOS="1039"
+                    WIDTH="2378"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="859 1120 859 1039 3223 1072 3227 1153 3218 1167 849 1148"/></Shape>
+	    <String CONTENT="l&#39;Antartique il y a la Terre Auſtrale, qui eſt une cinquiéme Partie du"
+                    HPOS="849"
+                    VPOS="1039"
+                    WIDTH="2378"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT834"
+                    BASELINE="859 1215 3237 1238" 
+                    HPOS="849"
+                    VPOS="1134"
+                    WIDTH="2388"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="859 1215 859 1134 3232 1158 3237 1238 3227 1253 849 1229"/></Shape>
+	    <String CONTENT="Globe terreſtre, où l’on n’a point encore penetré, &amp; qui n’eſt gueres"
+                    HPOS="849"
+                    VPOS="1134"
+                    WIDTH="2388"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT834"
+                    BASELINE="859 1305 3237 1329" 
+                    HPOS="849"
+                    VPOS="1234"
+                    WIDTH="2388"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="859 1305 859 1234 3237 1257 3237 1329 3227 1343 849 1319"/></Shape>
+	    <String CONTENT="moins grande toute ſeule, que les quatre autres enſemble qui nous"
+                    HPOS="849"
+                    VPOS="1234"
+                    WIDTH="2388"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT834"
+                    BASELINE="859 1395 3227 1414" 
+                    HPOS="849"
+                    VPOS="1319"
+                    WIDTH="2378"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="859 1395 859 1319 3223 1338 3227 1414 3218 1433 849 1414"/></Shape>
+	    <String CONTENT="ſont desja connuës. En effét nous n’avons approché de plus prés"
+                    HPOS="849"
+                    VPOS="1319"
+                    WIDTH="2378"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT834"
+                    BASELINE="859 1480 3223 1509" 
+                    HPOS="849"
+                    VPOS="1395"
+                    WIDTH="2374"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="859 1480 859 1395 3218 1424 3223 1509 3213 1528 849 1509"/></Shape>
+	    <String CONTENT="le Midy que vers le Deſtroit du Maire entre le 58. &amp; le 59. degré;"
+                    HPOS="849"
+                    VPOS="1395"
+                    WIDTH="2374"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT834"
+                    BASELINE="854 1575 3237 1594" 
+                    HPOS="844"
+                    VPOS="1499"
+                    WIDTH="2393"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="854 1575 854 1499 3232 1504 3237 1594 3227 1618 844 1594"/></Shape>
+	    <String CONTENT="ſi non qu’en l’an 1599. un de nos Vaiſſeaux Hollandois fut porté"
+                    HPOS="844"
+                    VPOS="1499"
+                    WIDTH="2393"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT834"
+                    BASELINE="854 1670 3237 1680" 
+                    HPOS="849"
+                    VPOS="1594"
+                    WIDTH="2388"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="854 1670 854 1594 3232 1604 3237 1680 3232 1704 849 1704"/></Shape>
+	    <String CONTENT="par la tempeſte juſques au 64. où il découvrit de fort hautes mon¬"
+                    HPOS="849"
+                    VPOS="1594"
+                    WIDTH="2388"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT834"
+                    BASELINE="859 1756 3237 1770" 
+                    HPOS="849"
+                    VPOS="1680"
+                    WIDTH="2388"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="859 1756 859 1680 3232 1694 3237 1770 3227 1789 849 1775"/></Shape>
+	    <String CONTENT="tagnes couvertes de nege. Et l’on ſçait que du coſté de la Nouvel¬"
+                    HPOS="849"
+                    VPOS="1680"
+                    WIDTH="2388"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT834"
+                    BASELINE="854 1841 3237 1860" 
+                    HPOS="844"
+                    VPOS="1770"
+                    WIDTH="2393"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="854 1841 854 1770 3232 1780 3237 1860 3227 1879 844 1865"/></Shape>
+	    <String CONTENT="le Guinée, auſſi bien qu’où les Chartes nous marquent le Cap de"
+                    HPOS="844"
+                    VPOS="1770"
+                    WIDTH="2393"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT834"
+                    BASELINE="863 1936 3242 1955" 
+                    HPOS="854"
+                    VPOS="1846"
+                    WIDTH="2388"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="863 1936 863 1846 3237 1860 3242 1955 3232 1974 854 1955"/></Shape>
+	    <String CONTENT="Beach, il y a des eſpaces preſque depuis la Ligne Equinoctiale juſ¬"
+                    HPOS="854"
+                    VPOS="1846"
+                    WIDTH="2388"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT834"
+                    BASELINE="854 2026 3242 2041" 
+                    HPOS="844"
+                    VPOS="1955"
+                    WIDTH="2398"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="854 2026 854 1955 3242 1969 3242 2041 3232 2055 844 2041"/></Shape>
+	    <String CONTENT="ques au Pole, dont nous n’avons pas la moindre connoiſſance. Si"
+                    HPOS="844"
+                    VPOS="1955"
+                    WIDTH="2398"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT834"
+                    BASELINE="854 2117 3242 2136" 
+                    HPOS="849"
+                    VPOS="2036"
+                    WIDTH="2393"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="854 2117 854 2036 3242 2055 3242 2136 3237 2154 849 2154"/></Shape>
+	    <String CONTENT="eſt-ce qu’on ne doit point douter qu’ils ne ſoient habités, &amp; méme"
+                    HPOS="849"
+                    VPOS="2036"
+                    WIDTH="2393"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT834"
+                    BASELINE="854 2207 3242 2226" 
+                    HPOS="844"
+                    VPOS="2112"
+                    WIDTH="2398"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="854 2207 849 2131 2026 2112 2031 2112 2036 2112 2041 2112 2041 2117 2064 2136 2587 2117 2591 2117 3242 2150 3242 2226 3232 2240 844 2221"/></Shape>
+	    <String CONTENT="que comme nons avons deça des Peuples Hyperborées, il n&#39;y en ait d’au¬"
+                    HPOS="844"
+                    VPOS="2112"
+                    WIDTH="2398"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT834"
+                    BASELINE="854 2297 3242 2311" 
+                    HPOS="844"
+                    VPOS="2216"
+                    WIDTH="2398"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="854 2297 854 2216 3237 2230 3242 2311 3232 2330 844 2316"/></Shape>
+	    <String CONTENT="tres qu’on peut nommer Hypernoties, pour uſer des propres termes"
+                    HPOS="844"
+                    VPOS="2216"
+                    WIDTH="2398"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT834"
+                    BASELINE="854 2382 3242 2401" 
+                    HPOS="844"
+                    VPOS="2306"
+                    WIDTH="2398"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="854 2382 854 2306 3242 2321 3242 2401 3232 2425 844 2401"/></Shape>
+	    <String CONTENT="d’Herodorte: Car tant s’en faut que la Terre ſoit inhabitable ſous les"
+                    HPOS="844"
+                    VPOS="2306"
+                    WIDTH="2398"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT834"
+                    BASELINE="854 2477 3232 2496" 
+                    HPOS="844"
+                    VPOS="2392"
+                    WIDTH="2388"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="854 2477 854 2392 3232 2411 3232 2496 3223 2529 844 2496"/></Shape>
+	    <String CONTENT="Poles, que l’air y doit eſtre plus temperé qu’en beaucoup d’autres lieux."
+                    HPOS="844"
+                    VPOS="2392"
+                    WIDTH="2388"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT834"
+                    BASELINE="854 2572 3232 2586" 
+                    HPOS="844"
+                    VPOS="2492"
+                    WIDTH="2388"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="854 2572 854 2492 3232 2496 3232 2586 3223 2610 844 2586"/></Shape>
+	    <String CONTENT="Les raiſons de cela ſe prennent du peu de mouvement des Cieux"
+                    HPOS="844"
+                    VPOS="2492"
+                    WIDTH="2388"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT834"
+                    BASELINE="854 2658 3232 2677" 
+                    HPOS="844"
+                    VPOS="2577"
+                    WIDTH="2388"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="854 2658 854 2577 3232 2586 3232 2677 3223 2700 844 2672"/></Shape>
+	    <String CONTENT="en ces endroits là; de la demeure continuelle qu&#39;y fait le Soleil"
+                    HPOS="844"
+                    VPOS="2577"
+                    WIDTH="2388"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25"
+                    TAGREFS="LT834"
+                    BASELINE="854 2753 3237 2767" 
+                    HPOS="844"
+                    VPOS="2672"
+                    WIDTH="2393"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="854 2753 854 2672 3237 2681 3237 2767 3227 2786 844 2781"/></Shape>
+	    <String CONTENT="pendant ſix mois; du peu d’obſcurité qu’il y a en forme de crepuſ¬"
+                    HPOS="844"
+                    VPOS="2672"
+                    WIDTH="2393"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26"
+                    TAGREFS="LT834"
+                    BASELINE="854 2843 3237 2857" 
+                    HPOS="844"
+                    VPOS="2762"
+                    WIDTH="2393"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="854 2843 854 2762 3237 2776 3237 2857 3227 2871 844 2862"/></Shape>
+	    <String CONTENT="cule ſeulement durant les ſix autres; de la lumiere Lunaire qui s’y"
+                    HPOS="844"
+                    VPOS="2762"
+                    WIDTH="2393"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27"
+                    TAGREFS="LT834"
+                    BASELINE="854 2928 3242 2947" 
+                    HPOS="844"
+                    VPOS="2829"
+                    WIDTH="2398"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="854 2928 849 2852 1443 2829 1447 2829 1452 2829 1509 2852 2625 2838 2629 2838 3242 2871 3242 2947 3232 2961 844 2942"/></Shape>
+	    <String CONTENT="void la pluſpart du temps; &amp; ſur tout du peu d&#39;époiſſeur de l&#39;om¬"
+                    HPOS="844"
+                    VPOS="2829"
+                    WIDTH="2398"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28"
+                    TAGREFS="LT834"
+                    BASELINE="849 3018 3246 3037" 
+                    HPOS="840"
+                    VPOS="2928"
+                    WIDTH="2406"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="849 3018 849 2928 3246 2957 3246 3037 3237 3056 840 3037"/></Shape>
+	    <String CONTENT="bre de la nuict, qui par conſequent n’y rafraiſchit pas comme ſous"
+                    HPOS="840"
+                    VPOS="2928"
+                    WIDTH="2406"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29"
+                    TAGREFS="LT834"
+                    BASELINE="849 3109 3237 3128" 
+                    HPOS="840"
+                    VPOS="3014"
+                    WIDTH="2397"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="849 3109 849 3014 3237 3052 3237 3128 3227 3147 840 3142"/></Shape>
+	    <String CONTENT="l’Equateur, où l’on ſçait que les nuicts ſont plus froides que par"
+                    HPOS="840"
+                    VPOS="3014"
+                    WIDTH="2397"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30"
+                    TAGREFS="LT834"
+                    BASELINE="849 3204 3242 3218" 
+                    HPOS="840"
+                    VPOS="3123"
+                    WIDTH="2402"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="849 3204 849 3123 3237 3137 3242 3218 3232 3232 840 3218"/></Shape>
+	    <String CONTENT="tout ailleurs, à cauſe qu’elles ſont produites par l’ombre époiſſe de"
+                    HPOS="840"
+                    VPOS="3123"
+                    WIDTH="2402"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31"
+                    TAGREFS="LT834"
+                    BASELINE="849 3289 3237 3308" 
+                    HPOS="840"
+                    VPOS="3213"
+                    WIDTH="2397"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="849 3289 849 3213 3232 3232 3237 3308 3227 3327 840 3308"/></Shape>
+	    <String CONTENT="tout le Diametre de la Terre. Mais ce n’eſt pas icy le lieu d’entrer"
+                    HPOS="840"
+                    VPOS="3213"
+                    WIDTH="2397"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32"
+                    TAGREFS="LT834"
+                    BASELINE="844 3379 3242 3398" 
+                    HPOS="835"
+                    VPOS="3298"
+                    WIDTH="2407"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="844 3379 844 3298 3237 3317 3242 3398 3232 3427 835 3412"/></Shape>
+	    <String CONTENT="plus avant dans ces conſiderations. Il importe aux Grands Princes"
+                    HPOS="835"
+                    VPOS="3298"
+                    WIDTH="2407"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33"
+                    TAGREFS="LT834"
+                    BASELINE="844 3474 3246 3488" 
+                    HPOS="835"
+                    VPOS="3393"
+                    WIDTH="2411"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="844 3474 844 3393 3246 3408 3246 3488 3237 3507 835 3493"/></Shape>
+	    <String CONTENT="d’aviſer par quels expediens on peu faciliter la découverte de ces"
+                    HPOS="835"
+                    VPOS="3393"
+                    WIDTH="2411"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_34"
+                    TAGREFS="LT834"
+                    BASELINE="849 3564 3242 3583" 
+                    HPOS="844"
+                    VPOS="3488"
+                    WIDTH="2398"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="849 3564 849 3488 3237 3503 3242 3583 3237 3602 844 3602"/></Shape>
+	    <String CONTENT="païs tout à fait étranges, &amp; rendre plus connus ceux qui ne le ſont"
+                    HPOS="844"
+                    VPOS="3488"
+                    WIDTH="2398"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35"
+                    TAGREFS="LT834"
+                    BASELINE="854 3654 3242 3678" 
+                    HPOS="844"
+                    VPOS="3569"
+                    WIDTH="2398"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="854 3654 854 3569 3237 3593 3242 3678 3232 3707 844 3678"/></Shape>
+	    <String CONTENT="qu’à demy, ou pour le moins dont nous ignorons l’eſtat preſent,"
+                    HPOS="844"
+                    VPOS="3569"
+                    WIDTH="2398"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_36"
+                    TAGREFS="LT834"
+                    BASELINE="844 3749 2682 3759" 
+                    HPOS="835"
+                    VPOS="3664"
+                    WIDTH="1847"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="844 3749 844 3664 2677 3669 2682 3759 2672 3792 835 3778"/></Shape>
+	    <String CONTENT="avec la façon dont ils ſont aujourd’huy gouvernés."
+                    HPOS="835"
+                    VPOS="3664"
+                    WIDTH="1847"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37"
+                    TAGREFS="LT834"
+                    BASELINE="935 3835 3242 3849" 
+                    HPOS="925"
+                    VPOS="3749"
+                    WIDTH="2317"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="935 3835 935 3749 3237 3768 3242 3849 3232 3878 925 3868"/></Shape>
+	    <String CONTENT="Pour ce qui concerne l’Europe, il n’en reſte que les parties les plus"
+                    HPOS="925"
+                    VPOS="3749"
+                    WIDTH="2317"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_38"
+                    TAGREFS="LT834"
+                    BASELINE="844 3925 3237 3939" 
+                    HPOS="840"
+                    VPOS="3849"
+                    WIDTH="2397"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="844 3925 844 3849 3232 3863 3237 3939 3232 3963 840 3963"/></Shape>
+	    <String CONTENT="proches du Pole à découvrir. Car nous ſçavons par les Relations"
+                    HPOS="840"
+                    VPOS="3849"
+                    WIDTH="2397"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39"
+                    TAGREFS="LT834"
+                    BASELINE="844 4020 3232 4034" 
+                    HPOS="835"
+                    VPOS="3939"
+                    WIDTH="2397"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="844 4020 844 3939 3227 3953 3232 4034 3223 4053 835 4034"/></Shape>
+	    <String CONTENT="de ceux de nos Provinces, qu’ils ont eſté juſques au 83. degré,"
+                    HPOS="835"
+                    VPOS="3939"
+                    WIDTH="2397"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_40"
+                    TAGREFS="LT834"
+                    BASELINE="854 4110 3232 4124" 
+                    HPOS="844"
+                    VPOS="4006"
+                    WIDTH="2388"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="854 4110 854 4006 3227 4020 3232 4124 3223 4139 844 4124"/></Shape>
+	    <String CONTENT="voir juſques au 88. Mais il y a ſi peu de profit à eſperer de ce coſté"
+                    HPOS="844"
+                    VPOS="4006"
+                    WIDTH="2388"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_41"
+                    TAGREFS="LT834"
+                    BASELINE="849 4200 3227 4215" 
+                    HPOS="840"
+                    VPOS="4120"
+                    WIDTH="2387"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="849 4200 849 4120 3227 4134 3227 4215 3218 4238 840 4219"/></Shape>
+	    <String CONTENT="là, hors celuy qui peut venir du paſſage qu’on cherche vers la Mer"
+                    HPOS="840"
+                    VPOS="4120"
+                    WIDTH="2387"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_42"
+                    TAGREFS="LT834"
+                    BASELINE="849 4290 3232 4305" 
+                    HPOS="840"
+                    VPOS="4215"
+                    WIDTH="2392"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="849 4290 849 4215 3232 4229 3232 4305 3223 4324 840 4309"/></Shape>
+	    <String CONTENT="de la CHINE, qu’il n’y a point de navigation, où les matelots ſe"
+                    HPOS="840"
+                    VPOS="4215"
+                    WIDTH="2392"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_43"
+                    TAGREFS="LT834"
+                    BASELINE="854 4381 3227 4400" 
+                    HPOS="844"
+                    VPOS="4300"
+                    WIDTH="2383"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="854 4381 854 4300 3223 4314 3227 4400 3218 4414 844 4409"/></Shape>
+	    <String CONTENT="portent moins volontiers qu’à celle du Nord. Et l’on eſt ſi peu"
+                    HPOS="844"
+                    VPOS="4300"
+                    WIDTH="2383"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_44"
+                    TAGREFS="LT834"
+                    BASELINE="854 4476 3227 4485" 
+                    HPOS="844"
+                    VPOS="4395"
+                    WIDTH="2383"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="854 4476 854 4395 3223 4404 3227 4485 3218 4504 844 4490"/></Shape>
+	    <String CONTENT="informé de ce grand païs de Groenlande, qu’on doute s’il fait enco¬"
+                    HPOS="844"
+                    VPOS="4395"
+                    WIDTH="2383"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_45"
+                    TAGREFS="LT834"
+                    BASELINE="854 4566 3227 4575" 
+                    HPOS="844"
+                    VPOS="4471"
+                    WIDTH="2383"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="854 4566 854 4471 3223 4485 3227 4575 3218 4609 844 4590"/></Shape>
+	    <String CONTENT="re partie de la terre habitable, ou ſi la Mer ne l’a point englouti."
+                    HPOS="844"
+                    VPOS="4471"
+                    WIDTH="2383"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_46"
+                    TAGREFS="LT834"
+                    BASELINE="854 4651 3227 4670" 
+                    HPOS="844"
+                    VPOS="4556"
+                    WIDTH="2383"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="854 4651 854 4556 3223 4590 3227 4670 3218 4699 844 4670"/></Shape>
+	    <String CONTENT="Car c’eſt choſe certaine que la pluſpart des Pilotes ne la trouvent"
+                    HPOS="844"
+                    VPOS="4556"
+                    WIDTH="2383"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_47"
+                    TAGREFS="LT834"
+                    BASELINE="849 4751 3227 4760" 
+                    HPOS="840"
+                    VPOS="4656"
+                    WIDTH="2387"
+                    HEIGHT="199">
+            <Shape><Polygon POINTS="849 4751 849 4656 3227 4670 3227 4760 3204 4781 3000 4776 2961 4782 2916 4784 2881 4811 2748 4832 2743 4832 2739 4832 2734 4832 2705 4803 2629 4836 2625 4836 2620 4836 2492 4822 2411 4851 2406 4851 2401 4851 2397 4851 2349 4827 2278 4851 2273 4851 2269 4851 2264 4851 2083 4803 1965 4851 1960 4851 1955 4851 1951 4851 1765 4794 1215 4794 1144 4846 1134 4855 1129 4855 1125 4855 1120 4855 840 4841"/></Shape>
+	    <String CONTENT="plus, quand ils ſont ſous ſa hauteur, ou comme ils diſent dans ſon"
+                    HPOS="840"
+                    VPOS="4656"
+                    WIDTH="2387"
+                    HEIGHT="199"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_48"
+                    
+                    BASELINE="3023 4855 3227 4846" 
+                    HPOS="3009"
+                    VPOS="4775"
+                    WIDTH="214"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="3019 4851 3009 4784 3208 4775 3223 4841 3223 4893 3019 4912"/></Shape>
+	    <String CONTENT="para¬"
+                    HPOS="3009"
+                    VPOS="4775"
+                    WIDTH="214"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3012"
+                   VPOS="4805"
+                   WIDTH="211"
+                   HEIGHT="80"
+                   ID="eSc_textblock_bb350608"
+                   TAGREFS="BT2377">
+          <Shape><Polygon POINTS="3223 4874 3012 4885 3019 4805 3223 4805"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bpt6k15120824_f29.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3752" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2381" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2380" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT2378" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2377" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2376" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2375" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2374" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2373" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2372" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2371" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/>
+    <OtherTag ID="LT837" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT836" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT835" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3551"
+          HEIGHT="5696"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3551"
+                  HEIGHT="5696">
+        
+        <TextBlock HPOS="845"
+                   VPOS="599"
+                   WIDTH="67"
+                   HEIGHT="82"
+                   ID="eSc_textblock_be330eac"
+                   TAGREFS="BT2376">
+          <Shape><Polygon POINTS="845 599 845 681 912 681 912 599"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_80d9db59"
+                    
+                    BASELINE="857 667 914 667" 
+                    HPOS="854"
+                    VPOS="588"
+                    WIDTH="57"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="854 664 854 588 911 588 911 664 911 693 854 702"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="854"
+                    VPOS="588"
+                    WIDTH="57"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1101"
+                   VPOS="531"
+                   WIDTH="1912"
+                   HEIGHT="140"
+                   ID="eSc_textblock_c1a2d8a1"
+                   TAGREFS="BT2378">
+          <Shape><Polygon POINTS="1101 531 1101 671 3013 671 3013 531"/></Shape>
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT836"
+                    BASELINE="1105 646 1794 636 2981 640" 
+                    HPOS="1096"
+                    VPOS="541"
+                    WIDTH="1880"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="1101 645 1096 541 2971 541 2976 636 2971 678 1101 683"/></Shape>
+	    <String CONTENT="L&#39;AMBASSADE DE LA C.Oʳ. DES PROV. UNIES"
+                    HPOS="1096"
+                    VPOS="541"
+                    WIDTH="1880"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="856"
+                   VPOS="676"
+                   WIDTH="2440"
+                   HEIGHT="4506"
+                   ID="eSc_textblock_12a52a75"
+                   TAGREFS="BT2374">
+          <Shape><Polygon POINTS="856 691 898 5182 2926 5117 3294 5080 3296 4454 3271 676"/></Shape>
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT834"
+                    BASELINE="854 740 3204 730" 
+                    HPOS="845"
+                    VPOS="655"
+                    WIDTH="2359"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="854 740 845 664 3190 655 3204 730 3199 754 854 759"/></Shape>
+	    <String CONTENT="dans la gourmandiſe, &amp; dans l&#39;impudicité. Je ſçais encore que Seneque, &amp; quel¬"
+                    HPOS="845"
+                    VPOS="655"
+                    WIDTH="2359"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT834"
+                    BASELINE="864 816 3194 811" 
+                    HPOS="854"
+                    VPOS="716"
+                    WIDTH="2340"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="864 816 854 745 1424 716 1428 716 3185 740 3194 811 3190 830 864 844"/></Shape>
+	    <String CONTENT="ques autres diſent que la plante qui eſt ſouvent tranſportée de lieu en autre, rare¬"
+                    HPOS="854"
+                    VPOS="716"
+                    WIDTH="2340"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT834"
+                    BASELINE="864 892 3194 882" 
+                    HPOS="854"
+                    VPOS="811"
+                    WIDTH="2340"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="864 892 854 821 3180 811 3194 882 3190 906 864 920"/></Shape>
+	    <String CONTENT="ment porte des fruits; que la viande embraſſée par l’eſtomach avec peu de loiſir ne"
+                    HPOS="854"
+                    VPOS="811"
+                    WIDTH="2340"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT834"
+                    BASELINE="859 954 3204 954" 
+                    HPOS="859"
+                    VPOS="887"
+                    WIDTH="2345"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="859 954 859 887 3204 887 3204 954 3204 977 859 992"/></Shape>
+	    <String CONTENT="ſe digere pas; que les remedes qu’on change perpetuellement l’un ſur l’autre ne"
+                    HPOS="859"
+                    VPOS="887"
+                    WIDTH="2345"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT834"
+                    BASELINE="859 1034 3204 1025" 
+                    HPOS="849"
+                    VPOS="958"
+                    WIDTH="2355"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="859 1034 849 968 3190 958 3204 1025 3199 1049 859 1072"/></Shape>
+	    <String CONTENT="font que tuer un corps; &amp; que la playe qu’on irrite ſans ceſſe, n’a garde de ſe rejoin¬"
+                    HPOS="849"
+                    VPOS="958"
+                    WIDTH="2355"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT834"
+                    BASELINE="859 1110 3209 1101" 
+                    HPOS="849"
+                    VPOS="1030"
+                    WIDTH="2360"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="859 1110 849 1044 3194 1030 3209 1101 3204 1124 859 1129"/></Shape>
+	    <String CONTENT="dre, non plus ni moins que celui qui voyage aſſiduëment ne devient jamais habile"
+                    HPOS="849"
+                    VPOS="1030"
+                    WIDTH="2360"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT834"
+                    BASELINE="854 1181 3213 1181" 
+                    HPOS="854"
+                    VPOS="1110"
+                    WIDTH="2359"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="854 1181 854 1110 3213 1110 3213 1181 3213 1200 854 1210"/></Shape>
+	    <String CONTENT="homme. Mais ſemblables opinions ſont à mon avis mal fondées, veu que nous ap¬"
+                    HPOS="854"
+                    VPOS="1110"
+                    WIDTH="2359"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT834"
+                    BASELINE="859 1257 3213 1257" 
+                    HPOS="859"
+                    VPOS="1181"
+                    WIDTH="2354"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="859 1257 859 1181 3213 1186 3213 1257 3213 1276 859 1286"/></Shape>
+	    <String CONTENT="prenons de nos Hiſtoires que la naiſſance, &amp; l’afférmiſſement des plus grands Em¬"
+                    HPOS="859"
+                    VPOS="1181"
+                    WIDTH="2354"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT834"
+                    BASELINE="859 1333 3218 1324" 
+                    HPOS="849"
+                    VPOS="1253"
+                    WIDTH="2369"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="859 1333 849 1262 3204 1253 3218 1324 3213 1343 859 1367"/></Shape>
+	    <String CONTENT="pires ne viennent que de la connoiſſance qu’ils ont eu des loix, &amp; des habitudes"
+                    HPOS="849"
+                    VPOS="1253"
+                    WIDTH="2369"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT834"
+                    BASELINE="854 1409 3213 1390" 
+                    HPOS="845"
+                    VPOS="1324"
+                    WIDTH="2368"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="854 1409 845 1343 3199 1324 3213 1390 3209 1424 854 1433"/></Shape>
+	    <String CONTENT="des étrangers. Lycurge méme n’ût jamais appris le meſtier d’aſſortir de ſi bonnes"
+                    HPOS="845"
+                    VPOS="1324"
+                    WIDTH="2368"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT834"
+                    BASELINE="854 1480 3218 1466" 
+                    HPOS="845"
+                    VPOS="1395"
+                    WIDTH="2373"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="854 1480 845 1409 3204 1395 3218 1466 3213 1490 854 1504"/></Shape>
+	    <String CONTENT="regles de police ſon Eſtat, s’il n’en ût emprunté quelques-unes de Crete, de l’Aſie, &amp;"
+                    HPOS="845"
+                    VPOS="1395"
+                    WIDTH="2373"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT834"
+                    BASELINE="854 1556 3218 1542" 
+                    HPOS="845"
+                    VPOS="1476"
+                    WIDTH="2373"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="854 1556 845 1490 3204 1476 3218 1542 3213 1566 854 1580"/></Shape>
+	    <String CONTENT="de l’Ægypte qu’il avoit viſité. Les Grecs &amp; les Romains mieux aviſez que les Spar¬"
+                    HPOS="845"
+                    VPOS="1476"
+                    WIDTH="2373"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT834"
+                    BASELINE="854 1632 3223 1618" 
+                    HPOS="845"
+                    VPOS="1552"
+                    WIDTH="2378"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="854 1632 845 1566 3209 1552 3223 1618 3218 1637 854 1651"/></Shape>
+	    <String CONTENT="tes &amp; les Laconiens jugerent que pour eterniſer leur noms, il falloit qu’ils parcou¬"
+                    HPOS="845"
+                    VPOS="1552"
+                    WIDTH="2378"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT834"
+                    BASELINE="854 1704 3223 1689" 
+                    HPOS="845"
+                    VPOS="1623"
+                    WIDTH="2378"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="854 1704 845 1632 3209 1623 3223 1689 3218 1723 854 1727"/></Shape>
+	    <String CONTENT="ruſſent les mers, &amp; s’ouvriſſent le chemin des Païs étrangers; &amp; non de merveille"
+                    HPOS="845"
+                    VPOS="1623"
+                    WIDTH="2378"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT834"
+                    BASELINE="859 1780 3218 1761" 
+                    HPOS="849"
+                    VPOS="1694"
+                    WIDTH="2369"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="859 1780 849 1708 3204 1694 3218 1761 3213 1794 859 1808"/></Shape>
+	    <String CONTENT="ſi ces derniers apporterent tant de ſoin à faire dreſſer exactement des Itineraires,"
+                    HPOS="849"
+                    VPOS="1694"
+                    WIDTH="2369"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT834"
+                    BASELINE="864 1855 3228 1836" 
+                    HPOS="854"
+                    VPOS="1765"
+                    WIDTH="2374"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="864 1855 854 1784 3213 1765 3228 1836 3223 1860 864 1884"/></Shape>
+	    <String CONTENT="qui puſſent conduire avec toute aſſurance les Voyageurs juſques aux dernieres ter¬"
+                    HPOS="854"
+                    VPOS="1765"
+                    WIDTH="2374"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT834"
+                    BASELINE="859 1927 1343 1922" 
+                    HPOS="849"
+                    VPOS="1860"
+                    WIDTH="494"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="859 1927 849 1865 1329 1860 1343 1922 1338 1946 859 1950"/></Shape>
+	    <String CONTENT="res de l&#39;Univers."
+                    HPOS="849"
+                    VPOS="1860"
+                    WIDTH="494"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT834"
+                    BASELINE="864 2003 3232 1984" 
+                    HPOS="854"
+                    VPOS="1898"
+                    WIDTH="2378"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="864 2003 854 1936 1395 1931 1438 1903 1443 1903 1443 1903 1447 1903 1447 1903 1447 1903 1452 1903 1951 1922 2031 1898 2036 1898 2036 1898 2041 1898 3223 1917 3232 1984 3228 2012 864 2036"/></Shape>
+	    <String CONTENT="Herodote, qui naſquit l&#39;an 481. avant la naiſſance de Jeſus Chriſt, rapporte que"
+                    HPOS="854"
+                    VPOS="1898"
+                    WIDTH="2378"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT834"
+                    BASELINE="881 2085 3237 2064" 
+                    HPOS="864"
+                    VPOS="1984"
+                    WIDTH="2368"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="878 2083 864 1993 3218 1984 3232 2060 3232 2083 878 2107"/></Shape>
+	    <String CONTENT="Necho Roy d&#39;Egypte (qui regnoit 605. avant l’Incarnation de Chriſt) deſireux d&#39;é¬"
+                    HPOS="864"
+                    VPOS="1984"
+                    WIDTH="2368"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT834"
+                    BASELINE="859 2150 3242 2131" 
+                    HPOS="849"
+                    VPOS="2064"
+                    WIDTH="2393"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="859 2150 849 2083 3228 2064 3242 2131 3237 2164 859 2183"/></Shape>
+	    <String CONTENT="tendre les limites de ſon domaine, s’addonna à la connoiſſance de la marine, &amp;"
+                    HPOS="849"
+                    VPOS="2064"
+                    WIDTH="2393"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT834"
+                    BASELINE="864 2226 3237 2207" 
+                    HPOS="854"
+                    VPOS="2136"
+                    WIDTH="2383"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="864 2226 854 2154 3223 2136 3237 2207 3232 2240 864 2249"/></Shape>
+	    <String CONTENT="qu’ayant fait ceſſer le canal qu’il avoit commencé à faire tirer depuis le Nil juſques"
+                    HPOS="854"
+                    VPOS="2136"
+                    WIDTH="2383"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25"
+                    TAGREFS="LT834"
+                    BASELINE="864 2302 3237 2283" 
+                    HPOS="854"
+                    VPOS="2211"
+                    WIDTH="2383"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="864 2302 854 2230 3223 2211 3237 2283 3232 2311 864 2335"/></Shape>
+	    <String CONTENT="au Golphe Arabique, dépecha une flotte de Phœniciens, auſquels il commanda de"
+                    HPOS="854"
+                    VPOS="2211"
+                    WIDTH="2383"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26"
+                    TAGREFS="LT834"
+                    BASELINE="864 2378 3237 2363" 
+                    HPOS="854"
+                    VPOS="2292"
+                    WIDTH="2383"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="864 2378 854 2306 3223 2292 3237 2363 3232 2387 864 2411"/></Shape>
+	    <String CONTENT="revenir en Egypte par la Mer Mediterranée. Ces peuples donc ayans levé les an¬"
+                    HPOS="854"
+                    VPOS="2292"
+                    WIDTH="2383"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27"
+                    TAGREFS="LT834"
+                    BASELINE="864 2454 3242 2430" 
+                    HPOS="854"
+                    VPOS="2354"
+                    WIDTH="2388"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="864 2454 854 2387 3228 2354 3242 2430 3237 2454 864 2473"/></Shape>
+	    <String CONTENT="cres de la Mer Auſtrale, &amp; l’Automne eſtant venu, prirent terre, Iabourerent, &amp;"
+                    HPOS="854"
+                    VPOS="2354"
+                    WIDTH="2388"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28"
+                    TAGREFS="LT834"
+                    BASELINE="873 2525 3242 2506" 
+                    HPOS="864"
+                    VPOS="2430"
+                    WIDTH="2378"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="873 2525 864 2454 3228 2430 3242 2506 3237 2525 873 2553"/></Shape>
+	    <String CONTENT="ſemerent quelque territoires, &amp; y ſejournerent juſques à ce qu&#39;ils ûrent recueil¬"
+                    HPOS="864"
+                    VPOS="2430"
+                    WIDTH="2378"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29"
+                    TAGREFS="LT834"
+                    BASELINE="868 2601 3247 2582" 
+                    HPOS="859"
+                    VPOS="2506"
+                    WIDTH="2388"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="868 2601 859 2529 3232 2506 3247 2582 3242 2601 868 2634"/></Shape>
+	    <String CONTENT="ly du bled ſuffiſamment pour achever leur voyage. Et s’eſtans remis ſur Mer, &amp;"
+                    HPOS="859"
+                    VPOS="2506"
+                    WIDTH="2388"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30"
+                    TAGREFS="LT834"
+                    BASELINE="873 2677 3251 2658" 
+                    HPOS="864"
+                    VPOS="2586"
+                    WIDTH="2387"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="873 2677 864 2605 3237 2586 3251 2658 3247 2691 873 2696"/></Shape>
+	    <String CONTENT="conſommé deux ans entiers à coſtoyer la Lybie, arriverent aux Colomnes d’Hercu¬"
+                    HPOS="864"
+                    VPOS="2586"
+                    WIDTH="2387"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31"
+                    TAGREFS="LT834"
+                    BASELINE="868 2757 2440 2734" 
+                    HPOS="859"
+                    VPOS="2662"
+                    WIDTH="1581"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="868 2757 859 2672 2425 2662 2440 2734 2435 2757 868 2776"/></Shape>
+	    <String CONTENT="le, &amp; de là revinrent en Egypte ſur la troiſiéme année."
+                    HPOS="859"
+                    VPOS="2662"
+                    WIDTH="1581"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32"
+                    TAGREFS="LT834"
+                    BASELINE="939 2829 3251 2805" 
+                    HPOS="930"
+                    VPOS="2734"
+                    WIDTH="2321"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="939 2829 930 2757 3237 2734 3251 2805 3247 2824 939 2848"/></Shape>
+	    <String CONTENT="Peu apres ce méme Autheur dit que les Carthaginois ſuivirent la méme piſte, &amp;"
+                    HPOS="930"
+                    VPOS="2734"
+                    WIDTH="2321"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33"
+                    TAGREFS="LT834"
+                    BASELINE="873 2900 3247 2876" 
+                    HPOS="864"
+                    VPOS="2800"
+                    WIDTH="2383"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="873 2900 864 2833 3232 2800 3247 2876 3242 2900 873 2923"/></Shape>
+	    <String CONTENT="qu’un certain Sataſpes eſtant condamné à eſtre cruicifié pour avoir ravi l&#39;honneur de"
+                    HPOS="864"
+                    VPOS="2800"
+                    WIDTH="2383"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_34"
+                    TAGREFS="LT834"
+                    BASELINE="873 2980 3256 2947" 
+                    HPOS="864"
+                    VPOS="2871"
+                    WIDTH="2392"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="873 2980 864 2895 3242 2871 3256 2947 3251 2971 873 3004"/></Shape>
+	    <String CONTENT="la fille de Zophyrus, ſa peine luy fut changée par Xerxes, en une navigation qu’il"
+                    HPOS="864"
+                    VPOS="2871"
+                    WIDTH="2392"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35"
+                    TAGREFS="LT834"
+                    BASELINE="873 3052 3261 3028" 
+                    HPOS="864"
+                    VPOS="2961"
+                    WIDTH="2397"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="873 3052 864 2976 3247 2961 3261 3028 3256 3056 873 3080"/></Shape>
+	    <String CONTENT="luy ordonna de faire depuis l’Egypte par les Colomnes d’Hercule juſques au ſein"
+                    HPOS="864"
+                    VPOS="2961"
+                    WIDTH="2397"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_36"
+                    TAGREFS="LT834"
+                    BASELINE="873 3128 1191 3118" 
+                    HPOS="864"
+                    VPOS="3047"
+                    WIDTH="327"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="873 3128 864 3061 1177 3047 1191 3118 1191 3142 873 3151"/></Shape>
+	    <String CONTENT="Arabique."
+                    HPOS="864"
+                    VPOS="3047"
+                    WIDTH="327"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37"
+                    TAGREFS="LT834"
+                    BASELINE="944 3199 3251 3166" 
+                    HPOS="935"
+                    VPOS="3099"
+                    WIDTH="2316"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="944 3199 935 3132 3237 3099 3251 3166 3247 3208 944 3232"/></Shape>
+	    <String CONTENT="De plus, il nous aſſeure que Darius ayant envie de ſçavoir, où &amp; en quelle Mer"
+                    HPOS="935"
+                    VPOS="3099"
+                    WIDTH="2316"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_38"
+                    TAGREFS="LT834"
+                    BASELINE="873 3275 3261 3256" 
+                    HPOS="864"
+                    VPOS="3189"
+                    WIDTH="2397"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="873 3275 864 3194 3247 3189 3261 3256 3256 3279 873 3303"/></Shape>
+	    <String CONTENT="le Fleuvre Indus ſe déchargeoit, enuoya un certain Scylax avec des perſonnes, de"
+                    HPOS="864"
+                    VPOS="3189"
+                    WIDTH="2397"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39"
+                    TAGREFS="LT834"
+                    BASELINE="873 3351 3261 3327" 
+                    HPOS="864"
+                    VPOS="3260"
+                    WIDTH="2397"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="873 3351 864 3270 3247 3260 3261 3327 3256 3355 873 3393"/></Shape>
+	    <String CONTENT="la fidelité deſquelles il ne pouvoit douter, &amp; qu’eſtans devalez par cette riviere, en¬"
+                    HPOS="864"
+                    VPOS="3260"
+                    WIDTH="2397"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_40"
+                    TAGREFS="LT834"
+                    BASELINE="868 3431 3261 3403" 
+                    HPOS="859"
+                    VPOS="3336"
+                    WIDTH="2402"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="868 3431 859 3365 3247 3336 3261 3403 3256 3427 868 3460"/></Shape>
+	    <String CONTENT="trez qu’ils furent en Mer, reconnurent exactement toutes les coſtes, &amp; revinrent"
+                    HPOS="859"
+                    VPOS="3336"
+                    WIDTH="2402"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_41"
+                    TAGREFS="LT834"
+                    BASELINE="873 3503 3266 3479" 
+                    HPOS="864"
+                    VPOS="3403"
+                    WIDTH="2402"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="873 3503 864 3436 3251 3403 3266 3479 3261 3512 873 3541"/></Shape>
+	    <String CONTENT="par le ſein Arabique trente mois apres leur depart: ce qui aida grandement à Darius"
+                    HPOS="864"
+                    VPOS="3403"
+                    WIDTH="2402"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_42"
+                    TAGREFS="LT834"
+                    BASELINE="873 3583 2440 3564" 
+                    HPOS="864"
+                    VPOS="3493"
+                    WIDTH="1576"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="873 3583 864 3512 2425 3493 2440 3564 2435 3597 873 3602"/></Shape>
+	    <String CONTENT="à ſubjuguer l’Inde, &amp; à ſe rendre le maiſtre de la Mer."
+                    HPOS="864"
+                    VPOS="3493"
+                    WIDTH="1576"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_43"
+                    TAGREFS="LT834"
+                    BASELINE="954 3663 1157 3664 1401 3663 3275 3621" 
+                    HPOS="939"
+                    VPOS="3545"
+                    WIDTH="2331"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="949 3659 939 3578 3256 3545 3270 3616 3270 3645 949 3683"/></Shape>
+	    <String CONTENT="Pline, qui eſtoit homme de Mer, General de l&#39;Armée navale, que les Romains"
+                    HPOS="939"
+                    VPOS="3545"
+                    WIDTH="2331"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_45"
+                    TAGREFS="LT834"
+                    BASELINE="878 3723 901 3726 3261 3702" 
+                    HPOS="864"
+                    VPOS="3626"
+                    WIDTH="2392"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="873 3721 864 3654 3242 3626 3256 3697 3251 3730 873 3759"/></Shape>
+	    <String CONTENT="avoient à Miſene a tres-ſoigneuſement remarqué tous ceux qui avoient eſté porté,"
+                    HPOS="864"
+                    VPOS="3626"
+                    WIDTH="2392"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_51"
+                    TAGREFS="LT834"
+                    BASELINE="883 3806 3266 3768" 
+                    HPOS="873"
+                    VPOS="3697"
+                    WIDTH="2393"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="883 3806 873 3735 3251 3697 3266 3768 3266 3802 883 3821"/></Shape>
+	    <String CONTENT="ou trouvé quelque choſe utile à la Marine. C’eſt luy qui nous aſſeure que les Vaiſ¬"
+                    HPOS="873"
+                    VPOS="3697"
+                    WIDTH="2393"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_52"
+                    TAGREFS="LT834"
+                    BASELINE="892 3882 3256 3854" 
+                    HPOS="883"
+                    VPOS="3778"
+                    WIDTH="2373"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="892 3882 883 3802 3242 3778 3256 3854 3251 3878 892 3911"/></Shape>
+	    <String CONTENT="ſeaux dont les Anglois ſe ſervoient de ſon temps eſtoient d’ozieres, couverts de"
+                    HPOS="883"
+                    VPOS="3778"
+                    WIDTH="2373"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_53"
+                    TAGREFS="LT834"
+                    BASELINE="878 3963 3261 3920" 
+                    HPOS="868"
+                    VPOS="3849"
+                    WIDTH="2393"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="878 3963 868 3892 3247 3849 3261 3920 3256 3953 878 3982"/></Shape>
+	    <String CONTENT="cuir; Que ceux du Nil ſe faiſoient de papier d’Egypte, de joncs &amp; de roſeaux: Que"
+                    HPOS="868"
+                    VPOS="3849"
+                    WIDTH="2393"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_54"
+                    TAGREFS="LT834"
+                    BASELINE="883 4039 3266 3996" 
+                    HPOS="873"
+                    VPOS="3925"
+                    WIDTH="2393"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="883 4039 873 3968 3251 3925 3266 3996 3261 4015 883 4053"/></Shape>
+	    <String CONTENT="ce fut le Roy Erytra qui ſe ſervit le premier de radeaux pour traverſer la Mer Rouge"
+                    HPOS="873"
+                    VPOS="3925"
+                    WIDTH="2393"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_55"
+                    TAGREFS="LT834"
+                    BASELINE="887 4105 3270 4077" 
+                    HPOS="878"
+                    VPOS="4006"
+                    WIDTH="2392"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="887 4105 878 4039 3256 4006 3270 4077 3270 4101 887 4134"/></Shape>
+	    <String CONTENT="ou bien ceux de Troye, lors qu’ils paſſerent l’Heleſpont, pour porter leurs armes"
+                    HPOS="878"
+                    VPOS="4006"
+                    WIDTH="2392"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_56"
+                    TAGREFS="LT834"
+                    BASELINE="887 4186 3266 4153" 
+                    HPOS="878"
+                    VPOS="4082"
+                    WIDTH="2388"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="887 4186 878 4115 3251 4082 3266 4153 3261 4172 887 4205"/></Shape>
+	    <String CONTENT="en Thrace: Que Jaſon fit le premier les navires longs: Que Damaſtes trouva l’in¬"
+                    HPOS="878"
+                    VPOS="4082"
+                    WIDTH="2388"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_57"
+                    TAGREFS="LT834"
+                    BASELINE="892 4257 3261 4229" 
+                    HPOS="883"
+                    VPOS="4148"
+                    WIDTH="2378"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="892 4257 883 4191 3247 4148 3261 4229 3256 4262 892 4290"/></Shape>
+	    <String CONTENT="vention des Galeres, deſquelles divers multiplierent les rames juſques à 50. rangs,"
+                    HPOS="883"
+                    VPOS="4148"
+                    WIDTH="2378"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_58"
+                    TAGREFS="LT834"
+                    BASELINE="892 4333 3270 4305" 
+                    HPOS="883"
+                    VPOS="4234"
+                    WIDTH="2387"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="892 4333 883 4257 3256 4234 3270 4305 3266 4324 892 4366"/></Shape>
+	    <String CONTENT="bien que les Copes ayent les premiers inventé l’uſage de la Rame, &amp; que les Plates"
+                    HPOS="883"
+                    VPOS="4234"
+                    WIDTH="2387"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_59"
+                    TAGREFS="LT834"
+                    BASELINE="892 4409 3266 4371" 
+                    HPOS="883"
+                    VPOS="4305"
+                    WIDTH="2383"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="892 4409 883 4338 3251 4305 3266 4371 3266 4395 892 4433"/></Shape>
+	    <String CONTENT="leur donnerent une largeur ſortable: Que ce fut Icarus qui trouva l’uſage des voi¬"
+                    HPOS="883"
+                    VPOS="4305"
+                    WIDTH="2383"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_60"
+                    TAGREFS="LT834"
+                    BASELINE="892 4485 3261 4447" 
+                    HPOS="883"
+                    VPOS="4381"
+                    WIDTH="2378"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="892 4485 883 4404 3247 4381 3261 4447 3261 4471 892 4518"/></Shape>
+	    <String CONTENT="les; Dedalus les Maſts &amp; les Antennes; les Tyrrheniens l’ancre; Anacharſis les Har-"
+                    HPOS="883"
+                    VPOS="4381"
+                    WIDTH="2378"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_61"
+                    TAGREFS="LT834"
+                    BASELINE="901 4561 3251 4523" 
+                    HPOS="892"
+                    VPOS="4457"
+                    WIDTH="2359"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="901 4561 892 4495 3237 4457 3251 4523 3247 4552 901 4599"/></Shape>
+	    <String CONTENT="pons; les Atheniens les mains de fer; Typhis le Gouvernail, &amp; les addreſſes pour"
+                    HPOS="892"
+                    VPOS="4457"
+                    WIDTH="2359"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_62"
+                    TAGREFS="LT834"
+                    BASELINE="897 4637 3266 4604" 
+                    HPOS="887"
+                    VPOS="4523"
+                    WIDTH="2379"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="897 4637 887 4571 3251 4523 3266 4604 3261 4632 897 4680"/></Shape>
+	    <String CONTENT="gouverner; &amp; que Minos fut le premier qu parut ſur Mer avec une Flotte de Vaiſ¬"
+                    HPOS="887"
+                    VPOS="4523"
+                    WIDTH="2379"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_63"
+                    TAGREFS="LT834"
+                    BASELINE="892 4713 1571 4713" 
+                    HPOS="892"
+                    VPOS="4637"
+                    WIDTH="679"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="892 4713 892 4637 1571 4646 1571 4713 1571 4737 892 4746"/></Shape>
+	    <String CONTENT="ſeaux armée en guerre."
+                    HPOS="892"
+                    VPOS="4637"
+                    WIDTH="679"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_64"
+                    TAGREFS="LT834"
+                    BASELINE="963 4789 3270 4741" 
+                    HPOS="954"
+                    VPOS="4675"
+                    WIDTH="2316"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="963 4789 954 4727 3256 4675 3270 4741 3270 4770 963 4813"/></Shape>
+	    <String CONTENT="Il dit encore que ſous Auguste on envoya une Flotte qui coſtoya l’Allemagne &amp;"
+                    HPOS="954"
+                    VPOS="4675"
+                    WIDTH="2316"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_65"
+                    TAGREFS="LT834"
+                    BASELINE="906 4860 3261 4832" 
+                    HPOS="897"
+                    VPOS="4756"
+                    WIDTH="2364"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="906 4860 897 4779 3247 4756 3261 4832 3261 4855 906 4898"/></Shape>
+	    <String CONTENT="les Cimbres, &amp; vit, &amp; reconnut cette vaſte Mer juſques en Scythie: Que de ſon"
+                    HPOS="897"
+                    VPOS="4756"
+                    WIDTH="2364"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_66"
+                    TAGREFS="LT834"
+                    BASELINE="901 4946 3256 4903" 
+                    HPOS="892"
+                    VPOS="4827"
+                    WIDTH="2364"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="901 4946 892 4879 3242 4827 3256 4903 3251 4936 901 4969"/></Shape>
+	    <String CONTENT="temps on navigeoit en la partie Meridionale de la Mauritanie: Qu’Alexandre avoit"
+                    HPOS="892"
+                    VPOS="4827"
+                    WIDTH="2364"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_67"
+                    TAGREFS="LT834"
+                    BASELINE="901 5021 3256 4979" 
+                    HPOS="892"
+                    VPOS="4912"
+                    WIDTH="2364"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="901 5021 892 4941 3242 4912 3256 4979 3251 5007 901 5059"/></Shape>
+	    <String CONTENT="fait reconnoitre la Mer Orientaſe juſqu&#39;au ſein Arabique: Que du regne de Cajus"
+                    HPOS="892"
+                    VPOS="4912"
+                    WIDTH="2364"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_68"
+                    TAGREFS="LT834"
+                    BASELINE="897 5097 2031 5093 3261 5050" 
+                    HPOS="887"
+                    VPOS="4974"
+                    WIDTH="2374"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="897 5097 887 5031 3247 4974 3261 5075 3257 5073 3067 5088 3024 5131 3019 5131 3014 5131 2957 5093 2767 5102 2734 5131 2720 5140 2715 5140 2710 5140 2705 5140 2530 5131 2311 5116 2273 5131 2221 5150 2217 5150 2212 5150 2107 5131 2046 5121 1822 5131 1277 5159 1272 5159 1158 5131 1144 5131 1139 5131 1082 5169 1077 5169 1072 5169 1068 5169 1063 5169 1058 5169 1011 5135 897 5135"/></Shape>
+	    <String CONTENT="Ceſar on trouva dans ce méme ſein le debris de quelques Vaiſſeaux Eſpagnols:"
+                    HPOS="887"
+                    VPOS="4974"
+                    WIDTH="2374"
+                    HEIGHT="195"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="580"
+                   VPOS="1945"
+                   WIDTH="294"
+                   HEIGHT="223"
+                   ID="eSc_textblock_80088955"
+                   TAGREFS="BT2375">
+          <Shape><Polygon POINTS="599 1945 580 2168 806 2153 874 2046 816 1960"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT834"
+                    BASELINE="626 2007 811 1998" 
+                    HPOS="617"
+                    VPOS="1941"
+                    WIDTH="194"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="626 2007 617 1941 797 1952 811 1998 807 2036 626 2045"/></Shape>
+	    <String CONTENT="Herodote"
+                    HPOS="617"
+                    VPOS="1941"
+                    WIDTH="194"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT834"
+                    BASELINE="640 2060 858 2063" 
+                    HPOS="635"
+                    VPOS="2016"
+                    WIDTH="219"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="636 2055 640 2026 849 2016 854 2060 842 2083 635 2083"/></Shape>
+	    <String CONTENT="Livre  4. en"
+                    HPOS="635"
+                    VPOS="2016"
+                    WIDTH="219"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT834"
+                    BASELINE="621 2126 799 2117" 
+                    HPOS="607"
+                    VPOS="2063"
+                    WIDTH="195"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="617 2121 620 2076 794 2063 797 2112 802 2145 707 2174 702 2178 697 2178 693 2178 607 2150"/></Shape>
+	    <String CONTENT="ſa Melp."
+                    HPOS="607"
+                    VPOS="2063"
+                    WIDTH="195"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="602"
+                   VPOS="3520"
+                   WIDTH="267"
+                   HEIGHT="343"
+                   ID="eSc_textblock_2dcc4f6c"
+                   TAGREFS="BT2375">
+          <Shape><Polygon POINTS="602 3520 628 3858 853 3863 869 3520"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_710b2c70"
+                    
+                    BASELINE="658 3684 875 3672" 
+                    HPOS="654"
+                    VPOS="3605"
+                    WIDTH="219"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="655 3683 654 3618 859 3605 873 3669 873 3749 659 3759"/></Shape>
+	    <String CONTENT="Pline en ſon"
+                    HPOS="654"
+                    VPOS="3605"
+                    WIDTH="219"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c898b15"
+                    
+                    BASELINE="664 3739 863 3730" 
+                    HPOS="656"
+                    VPOS="3663"
+                    WIDTH="203"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="659 3735 656 3678 859 3663 859 3726 859 3756 664 3761"/></Shape>
+	    <String CONTENT="L.7 Ch.56"
+                    HPOS="656"
+                    VPOS="3663"
+                    WIDTH="203"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b06115c"
+                    
+                    BASELINE="658 3793 733 3787" 
+                    HPOS="650"
+                    VPOS="3707"
+                    WIDTH="81"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="655 3792 651 3743 716 3707 731 3783 726 3816 650 3811"/></Shape>
+	    <String CONTENT="&amp;tc."
+                    HPOS="650"
+                    VPOS="3707"
+                    WIDTH="81"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="620"
+                   VPOS="4671"
+                   WIDTH="226"
+                   HEIGHT="209"
+                   ID="eSc_textblock_10486e8f"
+                   TAGREFS="BT2375">
+          <Shape><Polygon POINTS="665 4686 620 4871 846 4880 828 4671"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4ddc7c6f"
+                    
+                    BASELINE="673 4789 824 4786" 
+                    HPOS="665"
+                    VPOS="4719"
+                    WIDTH="156"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="669 4784 669 4719 821 4726 821 4784 821 4812 665 4803"/></Shape>
+	    <String CONTENT="Livre 2."
+                    HPOS="665"
+                    VPOS="4719"
+                    WIDTH="156"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a53972de"
+                    
+                    BASELINE="668 4836 809 4840" 
+                    HPOS="659"
+                    VPOS="4759"
+                    WIDTH="153"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="659 4803 663 4759 812 4788 807 4836 792 4874 663 4844"/></Shape>
+	    <String CONTENT="Ch.67."
+                    HPOS="659"
+                    VPOS="4759"
+                    WIDTH="153"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3117"
+                   VPOS="5067"
+                   WIDTH="154"
+                   HEIGHT="120"
+                   ID="eSc_textblock_e0c01df4"
+                   TAGREFS="BT2377">
+          <Shape><Polygon POINTS="3271 5142 3226 5076 3197 5074 3117 5067 3120 5187"/></Shape>
+          
+          
+          <TextLine ID="line_69"
+                    TAGREFS="LT834"
+                    BASELINE="3135 5140 3247 5145" 
+                    HPOS="3128"
+                    VPOS="5075"
+                    WIDTH="114"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="3133 5135 3133 5075 3237 5083 3242 5140 3237 5173 3128 5183"/></Shape>
+	    <String CONTENT="Que"
+                    HPOS="3128"
+                    VPOS="5075"
+                    WIDTH="114"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
