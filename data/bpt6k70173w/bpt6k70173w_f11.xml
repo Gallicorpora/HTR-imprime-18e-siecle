@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bpt6k70173w_f11.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3598" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3597" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT3596" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT3595" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT3594" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3593" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3592" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT3590" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3589" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT1237" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1236" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1235" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="688"
+                   VPOS="171"
+                   WIDTH="81"
+                   HEIGHT="74"
+                   ID="eSc_textblock_93c06909"
+                   TAGREFS="BT3593">
+          <Shape><Polygon POINTS="697 171 688 238 769 245 756 171"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7f871c33"
+                    TAGREFS="LT1235"
+                    BASELINE="696 228 751 232" 
+                    HPOS="690"
+                    VPOS="166"
+                    WIDTH="61"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="728 169 693 195 693 225 690 233 743 236 748 230 751 172 743 166 728 169"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="690"
+                    VPOS="166"
+                    WIDTH="61"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1034"
+                   VPOS="144"
+                   WIDTH="692"
+                   HEIGHT="86"
+                   ID="eSc_textblock_88aa8f8f"
+                   TAGREFS="BT3595">
+          <Shape><Polygon POINTS="1046 144 1034 230 1726 225 1714 151"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7d0be29f"
+                    TAGREFS="LT1237"
+                    BASELINE="1047 210 1711 204" 
+                    HPOS="1047"
+                    VPOS="140"
+                    WIDTH="664"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1658 149 1629 149 1600 149 1570 149 1541 146 1512 146 1483 146 1453 146 1424 146 1395 143 1366 143 1336 143 1307 143 1278 143 1249 143 1243 140 1088 143 1073 152 1053 175 1047 210 1047 219 1711 216 1711 204 1702 149 1688 149"/></Shape>
+	    <String CONTENT="La HENRIADE"
+                    HPOS="1047"
+                    VPOS="140"
+                    WIDTH="664"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="645"
+                   VPOS="280"
+                   WIDTH="1344"
+                   HEIGHT="1730"
+                   ID="eSc_textblock_03cfe73c"
+                   TAGREFS="BT3591">
+          <Shape><Polygon POINTS="645 280 645 2010 1989 2010 1989 280"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bca24aab"
+                    TAGREFS="LT1235"
+                    BASELINE="699 359 1576 365" 
+                    HPOS="696"
+                    VPOS="304"
+                    WIDTH="880"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="699 359 696 368 1570 377 1576 365 1576 312 699 304 699 359"/></Shape>
+	    <String CONTENT="Dans Paris revolté l’étranger accourut,"
+                    HPOS="696"
+                    VPOS="304"
+                    WIDTH="880"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_128510d6"
+                    TAGREFS="LT1235"
+                    BASELINE="702 444 1837 450" 
+                    HPOS="699"
+                    VPOS="388"
+                    WIDTH="1138"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="702 444 699 453 1831 458 1837 450 1834 397 702 388 702 444"/></Shape>
+	    <String CONTENT="Tout periſſoit enfin, lorſque ( * ) Bourbon parut."
+                    HPOS="699"
+                    VPOS="388"
+                    WIDTH="1138"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7cf2c5a2"
+                    TAGREFS="LT1235"
+                    BASELINE="699 529 1845 534" 
+                    HPOS="696"
+                    VPOS="467"
+                    WIDTH="1149"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1840 485 1307 485 1304 482 1275 467 1272 467 1269 467 699 476 699 529 696 540 1840 549 1845 534 1843 488 1840 485"/></Shape>
+	    <String CONTENT="Le vertueux Bourbon plein d’une ardeur guerriere,"
+                    HPOS="696"
+                    VPOS="467"
+                    WIDTH="1149"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d639fe10"
+                    TAGREFS="LT1235"
+                    BASELINE="699 619 1755 619" 
+                    HPOS="699"
+                    VPOS="567"
+                    WIDTH="1056"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="699 619 699 634 1755 634 1755 619 1755 567 699 567 699 619"/></Shape>
+	    <String CONTENT="A ſon Prince aveuglé vint montrer la lumiere."
+                    HPOS="699"
+                    VPOS="567"
+                    WIDTH="1056"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c96c7f1d"
+                    TAGREFS="LT1235"
+                    BASELINE="699 701 1641 701" 
+                    HPOS="699"
+                    VPOS="651"
+                    WIDTH="942"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="699 701 699 716 1641 716 1641 701 1641 651 699 651 699 701"/></Shape>
+	    <String CONTENT="Il lui rendit ſa force; il conduiſit ſes pas"
+                    HPOS="699"
+                    VPOS="651"
+                    WIDTH="942"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0b45f7f"
+                    TAGREFS="LT1235"
+                    BASELINE="702 786 1834 786" 
+                    HPOS="702"
+                    VPOS="733"
+                    WIDTH="1132"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="702 786 702 800 1834 800 1834 786 1834 739 702 733 702 786"/></Shape>
+	    <String CONTENT="De la honte à la gloire, &amp; des jeux aux combats :"
+                    HPOS="702"
+                    VPOS="733"
+                    WIDTH="1132"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af1583ef"
+                    TAGREFS="LT1235"
+                    BASELINE="702 871 1854 871" 
+                    HPOS="702"
+                    VPOS="821"
+                    WIDTH="1152"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="702 871 702 885 1854 885 1854 871 1854 821 702 821 702 871"/></Shape>
+	    <String CONTENT="Aux ramparts de Paris les deux Rois s’avancerent."
+                    HPOS="702"
+                    VPOS="821"
+                    WIDTH="1152"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5c7a905"
+                    TAGREFS="LT1235"
+                    BASELINE="702 953 1960 958" 
+                    HPOS="699"
+                    VPOS="903"
+                    WIDTH="1261"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1942 906 702 903 702 953 699 961 1954 967 1960 958 1957 926 1942 906"/></Shape>
+	    <String CONTENT="Au bruit de leurs exploits, cent peuples s’allarmerent."
+                    HPOS="699"
+                    VPOS="903"
+                    WIDTH="1261"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c003d006"
+                    TAGREFS="LT1235"
+                    BASELINE="702 1037 1629 1046" 
+                    HPOS="699"
+                    VPOS="982"
+                    WIDTH="930"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="702 1037 699 1046 1623 1055 1629 1046 1626 993 702 982 702 1037"/></Shape>
+	    <String CONTENT="L&#39;Europe intereſſée à ces fameux revers,"
+                    HPOS="699"
+                    VPOS="982"
+                    WIDTH="930"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc4d23ca"
+                    TAGREFS="LT1235"
+                    BASELINE="702 1125 1802 1125" 
+                    HPOS="702"
+                    VPOS="1072"
+                    WIDTH="1100"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="702 1125 702 1140 1802 1140 1802 1125 1802 1075 702 1072 702 1125"/></Shape>
+	    <String CONTENT="Sur ces murs orgueilleux avoit les yeux ouverts."
+                    HPOS="702"
+                    VPOS="1072"
+                    WIDTH="1100"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f20e6aa"
+                    TAGREFS="LT1235"
+                    BASELINE="757 1210 1755 1210" 
+                    HPOS="757"
+                    VPOS="1160"
+                    WIDTH="998"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="757 1210 757 1227 1755 1227 1755 1210 1755 1160 757 1160 757 1210"/></Shape>
+	    <String CONTENT="On voïoit dans Paris la diſcorde inhumaine"
+                    HPOS="757"
+                    VPOS="1160"
+                    WIDTH="998"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ef94881"
+                    TAGREFS="LT1235"
+                    BASELINE="702 1295 1805 1300" 
+                    HPOS="699"
+                    VPOS="1236"
+                    WIDTH="1106"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="702 1295 699 1303 1799 1312 1805 1300 1802 1248 702 1236 702 1295"/></Shape>
+	    <String CONTENT="Excitant aux combats &amp; la Ligue, &amp; Mayenne,"
+                    HPOS="699"
+                    VPOS="1236"
+                    WIDTH="1106"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3429452f"
+                    TAGREFS="LT1235"
+                    BASELINE="702 1376 1863 1385" 
+                    HPOS="699"
+                    VPOS="1324"
+                    WIDTH="1164"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1851 1330 702 1324 702 1376 699 1388 1857 1397 1863 1385 1860 1347 1851 1330"/></Shape>
+	    <String CONTENT="Portant par-tout l’horreur, &amp; du haut de ſes tours,"
+                    HPOS="699"
+                    VPOS="1324"
+                    WIDTH="1164"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e850eec3"
+                    TAGREFS="LT1235"
+                    BASELINE="702 1464 1796 1464" 
+                    HPOS="702"
+                    VPOS="1409"
+                    WIDTH="1094"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="702 1464 702 1482 1796 1482 1796 1464 1796 1417 702 1409 702 1464"/></Shape>
+	    <String CONTENT="De Rome &amp; de l’Eſpagne appellant les ſecours."
+                    HPOS="702"
+                    VPOS="1409"
+                    WIDTH="1094"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc617d59"
+                    TAGREFS="LT1235"
+                    BASELINE="705 1546 1767 1555" 
+                    HPOS="702"
+                    VPOS="1482"
+                    WIDTH="1065"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="705 1546 702 1555 1761 1566 1767 1555 1767 1505 1726 1487 1723 1487 1720 1487 1418 1499 1398 1485 1395 1485 1392 1485 1266 1485 1263 1485 1260 1485 1257 1485 1257 1487 1243 1499 1237 1499 994 1482 991 1482 988 1482 985 1482 968 1496 912 1482 909 1482 906 1482 705 1493 705 1546"/></Shape>
+	    <String CONTENT="Ce monſtre impétueux, ſanguinaire, inflexible,"
+                    HPOS="702"
+                    VPOS="1482"
+                    WIDTH="1065"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6575d176"
+                    TAGREFS="LT1235"
+                    BASELINE="705 1637 1673 1631" 
+                    HPOS="702"
+                    VPOS="1566"
+                    WIDTH="971"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="705 1637 705 1651 1670 1645 1673 1631 1667 1584 1336 1584 1334 1581 1313 1566 1310 1566 1307 1566 1304 1566 1193 1581 1167 1584 1155 1581 1120 1569 1117 1569 1114 1569 1111 1569 1070 1581 1056 1584 1026 1581 944 1569 942 1569 702 1578 705 1637"/></Shape>
+	    <String CONTENT="De ſes eſclaves même eſt l&#39;ennemi terrible."
+                    HPOS="702"
+                    VPOS="1566"
+                    WIDTH="971"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15b9bf22"
+                    TAGREFS="LT1235"
+                    BASELINE="707 1718 1778 1713" 
+                    HPOS="707"
+                    VPOS="1666"
+                    WIDTH="1071"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="707 1718 707 1733 1775 1730 1778 1713 1772 1666 722 1666 707 1718"/></Shape>
+	    <String CONTENT="Aux malheurs des mortels il borne ſes deſſeins."
+                    HPOS="707"
+                    VPOS="1666"
+                    WIDTH="1071"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_680f7845"
+                    TAGREFS="LT1235"
+                    BASELINE="710 1800 1778 1806" 
+                    HPOS="707"
+                    VPOS="1745"
+                    WIDTH="1071"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="710 1800 707 1809 1772 1815 1778 1806 1775 1756 710 1745 710 1800"/></Shape>
+	    <String CONTENT="Le ſang de ſon party rougit ſouvent ſes mains."
+                    HPOS="707"
+                    VPOS="1745"
+                    WIDTH="1071"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_363d45e9"
+                    TAGREFS="LT1235"
+                    BASELINE="713 1882 1761 1891" 
+                    HPOS="710"
+                    VPOS="1821"
+                    WIDTH="1051"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="713 1882 710 1894 1755 1906 1761 1891 1758 1841 1257 1824 1255 1824 1079 1835 1070 1835 1035 1821 1032 1821 1029 1821 728 1832 713 1882"/></Shape>
+	    <String CONTENT="Il habite en tiran dans les cœurs qu’il déchire,"
+                    HPOS="710"
+                    VPOS="1821"
+                    WIDTH="1051"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64f60c2a"
+                    TAGREFS="LT1235"
+                    BASELINE="713 1970 1740 1976" 
+                    HPOS="710"
+                    VPOS="1906"
+                    WIDTH="1030"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="713 1970 710 1982 1734 1987 1740 1976 1737 1923 1249 1923 1246 1920 1222 1906 1219 1906 1217 1906 1214 1906 728 1917 713 1970"/></Shape>
+	    <String CONTENT="Et lui même il punit les forfaits qu’il inſpire."
+                    HPOS="710"
+                    VPOS="1906"
+                    WIDTH="1030"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="757"
+                   VPOS="2052"
+                   WIDTH="1322"
+                   HEIGHT="124"
+                   ID="eSc_textblock_2a73c274"
+                   TAGREFS="BT3592">
+          <Shape><Polygon POINTS="757 2057 759 2172 2060 2176 2079 2052"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_17d9016e"
+                    TAGREFS="LT1235"
+                    BASELINE="773 2110 2053 2107" 
+                    HPOS="769"
+                    VPOS="2052"
+                    WIDTH="1281"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="772 2107 772 2128 2047 2125 2050 2104 2044 2060 769 2052 772 2107"/></Shape>
+	    <String CONTENT="( * ) Henri IV. eſt appellé indifferemment Bourbon, ou Henri. Henri III."
+                    HPOS="769"
+                    VPOS="2052"
+                    WIDTH="1281"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ec05c25"
+                  TAGREFS="LT1235"
+                    BASELINE="854 2154 1339 2154" 
+                    HPOS="851"
+                    VPOS="2110"
+                    WIDTH="485"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="851 2151 851 2166 1334 2169 1336 2151 1336 2110 851 2110 851 2151"/></Shape>
+	    <String CONTENT="eſt toujours nommé Valois."
+                    HPOS="851"
+                    VPOS="2110"
+                    WIDTH="485"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

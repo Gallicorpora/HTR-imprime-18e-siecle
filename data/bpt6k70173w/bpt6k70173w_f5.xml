@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bpt6k70173w_f5.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3598" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3597" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT3596" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT3595" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT3594" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT3593" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3592" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3591" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT3590" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT3589" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT1237" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1236" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1235" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="508"
+                   VPOS="116"
+                   WIDTH="1634"
+                   HEIGHT="2016"
+                   ID="eSc_textblock_aa01d312"
+                   TAGREFS="BT3591">
+          <Shape><Polygon POINTS="508 116 508 2132 2142 2132 2142 116"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2d945014"
+                    TAGREFS="LT1235"
+                    BASELINE="699 225 2018 239" 
+                    HPOS="696"
+                    VPOS="163"
+                    WIDTH="1322"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2012 184 1983 184 1954 184 1924 184 1895 184 1866 184 1837 181 1807 181 1778 181 1749 181 1720 181 1690 181 1661 178 1632 178 1603 178 1573 178 1544 178 1515 175 1486 175 1456 175 1427 175 1398 175 1369 175 1339 172 1310 172 1281 172 1252 172 1222 172 1193 172 1164 169 1135 169 1105 169 1076 169 1047 169 1018 166 988 166 959 166 930 166 901 166 871 166 842 163 813 163 784 163 754 163 725 163 699 163 699 225 696 233 2012 248 2018 239 2015 184 2012 184"/></Shape>
+	    <String CONTENT="YOUR MAJESTY will find in this Book,"
+                    HPOS="696"
+                    VPOS="163"
+                    WIDTH="1322"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2912a684"
+                    TAGREFS="LT1235"
+                    BASELINE="623 309 2015 318" 
+                    HPOS="620"
+                    VPOS="242"
+                    WIDTH="1395"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="623 254 623 309 620 318 2009 327 2015 318 2012 248 643 242 623 254"/></Shape>
+	    <String CONTENT="bold impartial Truths; Morality unſtained"
+                    HPOS="620"
+                    VPOS="242"
+                    WIDTH="1395"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d755a579"
+                    TAGREFS="LT1235"
+                    BASELINE="628 385 2012 397" 
+                    HPOS="626"
+                    VPOS="312"
+                    WIDTH="1386"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1661 318 1556 336 1553 336 1550 336 1500 318 1497 318 1494 318 1413 333 1354 318 1351 318 1348 318 1345 318 1342 318 1342 321 1328 336 1325 336 1140 336 1138 333 1102 315 1099 315 1097 315 924 330 816 312 813 312 810 312 775 330 772 330 702 312 699 312 696 312 628 327 628 385 626 394 2006 406 2012 397 2009 342 1772 342 1769 339 1755 324 1755 321 1752 321 1749 321 1664 318 1661 318"/></Shape>
+	    <String CONTENT="with Superſtition; a Spirit of Liberty, e¬"
+                    HPOS="626"
+                    VPOS="312"
+                    WIDTH="1386"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33b96971"
+                    TAGREFS="LT1235"
+                    BASELINE="628 470 2024 479" 
+                    HPOS="626"
+                    VPOS="394"
+                    WIDTH="1398"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="628 470 626 479 2018 488 2024 479 2021 420 1843 400 1840 400 1837 400 1787 418 1764 400 1761 400 1758 400 1755 400 1752 400 1749 400 1749 403 1731 418 1731 420 1588 420 1579 418 1518 397 1515 397 1512 397 1424 412 1328 397 1325 397 1208 415 1193 415 1082 415 974 412 956 394 953 394 950 394 947 394 854 412 851 412 848 412 789 394 786 394 784 394 628 409 628 470"/></Shape>
+	    <String CONTENT="qually abhorrent of Rebellion, and of Ty¬"
+                    HPOS="626"
+                    VPOS="394"
+                    WIDTH="1398"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9556866"
+                    TAGREFS="LT1235"
+                    BASELINE="628 549 2015 558" 
+                    HPOS="626"
+                    VPOS="476"
+                    WIDTH="1389"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="2006 499 1936 482 1933 482 1930 482 1813 499 1807 499 1802 499 1632 482 1629 482 1626 482 1573 499 1565 499 1556 499 1462 479 1459 479 1255 496 1237 496 1225 496 1091 476 1088 476 1085 476 1015 494 956 476 953 476 950 476 947 476 901 494 898 494 628 494 628 549 626 558 1553 581 1556 581 2012 567 2015 558 2015 523 2006 499"/></Shape>
+	    <String CONTENT="ranny; the Rights of Kings always aſſer¬"
+                    HPOS="626"
+                    VPOS="476"
+                    WIDTH="1389"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3655d5fd"
+                    TAGREFS="LT1235"
+                    BASELINE="628 628 1998 643" 
+                    HPOS="626"
+                    VPOS="555"
+                    WIDTH="1372"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="628 628 626 637 1992 651 1998 643 1995 584 1787 567 1784 567 1781 567 1746 581 1743 581 1740 581 1717 564 1714 564 1711 564 1708 564 1515 578 1489 578 1477 578 1392 561 1389 561 1293 575 1284 575 1275 575 1176 558 1173 558 1102 572 1099 572 1094 572 936 558 933 558 930 558 903 572 889 558 889 555 886 555 883 555 880 555 877 555 848 570 845 572 748 572 748 570 734 558 734 555 731 555 728 555 725 555 628 567 628 628"/></Shape>
+	    <String CONTENT="red, and thoſe of Mankind never laid aſide."
+                    HPOS="626"
+                    VPOS="555"
+                    WIDTH="1372"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea9eaea3"
+                    TAGREFS="LT1235"
+                    BASELINE="713 789 2018 806" 
+                    HPOS="710"
+                    VPOS="719"
+                    WIDTH="1308"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="860 722 830 722 801 722 772 722 743 722 713 722 713 789 710 798 2012 812 2018 806 2018 745 880 719 860 722"/></Shape>
+	    <String CONTENT="The ſame Spirit in which it is written,"
+                    HPOS="710"
+                    VPOS="719"
+                    WIDTH="1308"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0cec5e13"
+                    TAGREFS="LT1235"
+                    BASELINE="640 871 2024 885" 
+                    HPOS="637"
+                    VPOS="800"
+                    WIDTH="1387"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="640 824 640 871 637 885 2018 891 2024 885 2015 827 1963 809 1960 809 1957 809 1807 827 1799 827 1796 827 1772 809 1769 809 1767 809 1764 809 1761 809 1714 824 1609 806 1606 806 1603 806 1535 824 1530 824 1497 824 1143 800 1140 800 1138 800 1079 818 1076 818 1003 800 1000 800 997 800 994 800 950 818 944 818 933 818 848 803 845 803 646 812 640 824"/></Shape>
+	    <String CONTENT="gave me the Confidence to offer it to the"
+                    HPOS="637"
+                    VPOS="800"
+                    WIDTH="1387"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d490b18"
+                    TAGREFS="LT1235"
+                    BASELINE="637 950 2024 961" 
+                    HPOS="634"
+                    VPOS="879"
+                    WIDTH="1390"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="637 950 634 958 2018 970 2024 961 2012 900 1971 888 1968 888 1965 888 1963 888 1960 888 1960 891 1945 903 1945 906 1696 906 1690 903 1644 885 1641 885 1638 885 1477 900 1468 900 1459 900 1351 885 1348 885 1345 885 1342 885 1342 888 1331 900 1328 900 1284 882 1281 882 1278 882 1126 897 1117 897 1102 885 1102 882 1099 882 1097 882 1094 882 1015 894 985 879 982 879 980 879 977 879 912 894 699 879 696 879 637 891 637 950"/></Shape>
+	    <String CONTENT="virtuous Conſort of a King, who among ſo"
+                    HPOS="634"
+                    VPOS="879"
+                    WIDTH="1390"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa13a5a5"
+                    TAGREFS="LT1235"
+                    BASELINE="631 1034 2021 1049" 
+                    HPOS="628"
+                    VPOS="961"
+                    WIDTH="1393"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="631 1034 628 1043 2015 1064 2021 1049 2021 988 1673 967 1670 967 1503 979 1468 964 1465 964 1462 964 1263 979 1240 979 1234 979 1190 961 1187 961 1184 961 631 970 631 1034"/></Shape>
+	    <String CONTENT="many crowned Heads, enjoys, almoſt alone,"
+                    HPOS="628"
+                    VPOS="961"
+                    WIDTH="1393"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_718a42b4"
+                    TAGREFS="LT1235"
+                    BASELINE="634 1113 2021 1125" 
+                    HPOS="631"
+                    VPOS="1037"
+                    WIDTH="1390"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1922 1049 1892 1049 1881 1049 1802 1061 1793 1061 1790 1061 1758 1049 1746 1049 1737 1046 1688 1061 1679 1061 1667 1061 1609 1046 1600 1046 1570 1046 1541 1046 1512 1046 1506 1046 1246 1055 1231 1055 1205 1043 1190 1043 1173 1040 1012 1055 982 1055 977 1055 939 1040 927 1040 906 1037 634 1049 634 1113 631 1122 2015 1134 2021 1125 2018 1064 1922 1049 1922 1049"/></Shape>
+	    <String CONTENT="the ineſtimable Honour of ruling a Free Na¬"
+                    HPOS="631"
+                    VPOS="1037"
+                    WIDTH="1390"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fc25932"
+                    TAGREFS="LT1235"
+                    BASELINE="634 1192 2027 1207" 
+                    HPOS="631"
+                    VPOS="1116"
+                    WIDTH="1396"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1468 1122 1219 1140 1196 1140 1190 1140 1129 1119 1126 1119 1123 1119 991 1137 985 1137 982 1137 918 1116 915 1116 912 1116 909 1116 845 1134 845 1137 716 1137 713 1134 693 1116 690 1116 687 1116 684 1116 681 1116 634 1131 634 1192 631 1201 2021 1219 2027 1207 2027 1145 1980 1128 1977 1128 1974 1128 1971 1128 1968 1128 1945 1145 1881 1128 1878 1128 1875 1128 1784 1145 1775 1145 1752 1145 1471 1122 1468 1122"/></Shape>
+	    <String CONTENT="tion, a King who makes his Power conſiſt in"
+                    HPOS="631"
+                    VPOS="1116"
+                    WIDTH="1396"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30fc3afd"
+                    TAGREFS="LT1235"
+                    BASELINE="637 1274 1998 1286" 
+                    HPOS="634"
+                    VPOS="1201"
+                    WIDTH="1364"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1957 1207 1954 1207 1951 1207 1948 1207 1924 1221 1881 1207 1878 1207 1875 1207 1787 1221 1781 1221 1778 1221 1761 1207 1758 1207 1755 1207 1752 1207 1749 1207 1708 1219 1699 1221 1682 1219 1603 1204 1600 1204 1500 1216 1474 1219 1445 1216 1372 1204 1369 1204 1366 1204 1363 1204 1348 1213 1345 1219 1339 1213 1322 1201 1319 1201 1316 1201 1310 1201 1281 1201 1252 1201 1222 1201 1211 1201 1208 1201 1205 1201 1202 1201 1202 1204 1193 1213 1187 1216 637 1204 637 1274 634 1283 1992 1295 1998 1286 1998 1224 1960 1207 1957 1207"/></Shape>
+	    <String CONTENT="being beloved, and his Glory in being juſt."
+                    HPOS="634"
+                    VPOS="1201"
+                    WIDTH="1364"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d00f299"
+                    TAGREFS="LT1235"
+                    BASELINE="707 1432 2036 1449" 
+                    HPOS="705"
+                    VPOS="1359"
+                    WIDTH="1331"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="2027 1385 1989 1373 1986 1373 1983 1373 1772 1388 1743 1388 1734 1388 1685 1371 1682 1371 1679 1371 1676 1371 1641 1385 1632 1388 1603 1385 1506 1373 1503 1373 1451 1385 1439 1385 1430 1382 1374 1365 1372 1365 1369 1365 1290 1382 1284 1382 1269 1382 1117 1365 1114 1365 1050 1376 1035 1365 1035 1362 1032 1362 1029 1362 1026 1362 1023 1362 968 1376 930 1359 927 1359 924 1359 921 1359 880 1376 763 1359 760 1359 757 1359 707 1373 707 1432 705 1441 2030 1455 2036 1449 2036 1397 2027 1385"/></Shape>
+	    <String CONTENT="Our Deſcartes, who was the greateſt"
+                    HPOS="705"
+                    VPOS="1359"
+                    WIDTH="1331"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6326965c"
+                    TAGREFS="LT1235"
+                    BASELINE="640 1514 2030 1525" 
+                    HPOS="637"
+                    VPOS="1438"
+                    WIDTH="1393"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1898 1449 1878 1449 1863 1464 1860 1464 1851 1464 1752 1447 1749 1447 1746 1447 1696 1461 1685 1464 1679 1461 1649 1447 1635 1447 1626 1447 1588 1458 1579 1464 1503 1464 1500 1458 1486 1447 1486 1444 1483 1444 1480 1444 1477 1444 1474 1444 1430 1458 1415 1461 1410 1455 1395 1444 1392 1444 1389 1444 1386 1444 1383 1444 1360 1455 1348 1461 1199 1461 1193 1452 1178 1441 1176 1441 1173 1441 1170 1441 1167 1441 1135 1452 1120 1458 1099 1452 1070 1441 1067 1441 1064 1441 1061 1441 1038 1452 1029 1458 965 1458 956 1449 944 1438 942 1438 939 1438 936 1438 933 1438 889 1449 874 1452 871 1449 860 1438 857 1438 854 1438 851 1438 848 1438 822 1447 810 1452 798 1447 775 1438 772 1438 769 1438 640 1444 640 1514 637 1523 2024 1534 2030 1525 2027 1467 1907 1449 1898 1449"/></Shape>
+	    <String CONTENT="Philoſopher in Europe, before Sir Iſaac New¬"
+                    HPOS="637"
+                    VPOS="1438"
+                    WIDTH="1393"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f026884e"
+                    TAGREFS="LT1235"
+                    BASELINE="634 1596 2036 1610" 
+                    HPOS="631"
+                    VPOS="1523"
+                    WIDTH="1405"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="634 1596 631 1604 2030 1619 2036 1610 2036 1546 1971 1531 1968 1531 1965 1531 1963 1531 1924 1546 1919 1546 1769 1531 1767 1531 1764 1531 1734 1543 1714 1528 1711 1528 1708 1528 1705 1528 1702 1528 1652 1543 1649 1543 1644 1543 1521 1528 1518 1528 1515 1528 1512 1528 1497 1540 1480 1525 1477 1525 1474 1525 1471 1525 1284 1540 1263 1540 1257 1540 1199 1523 1196 1523 1193 1523 1190 1523 1187 1523 1164 1537 1135 1523 1132 1523 1129 1523 1126 1523 1091 1537 1050 1523 1047 1523 1044 1523 1041 1523 1012 1537 1009 1537 634 1534 634 1596"/></Shape>
+	    <String CONTENT="ton appeared, dedicated his Principles to the"
+                    HPOS="631"
+                    VPOS="1523"
+                    WIDTH="1405"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd15dc3a"
+                    TAGREFS="LT1235"
+                    BASELINE="640 1675 2033 1695" 
+                    HPOS="637"
+                    VPOS="1599"
+                    WIDTH="1396"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1816 1610 1813 1610 1810 1610 1670 1628 1664 1628 1661 1628 1638 1607 1635 1607 1632 1607 1606 1607 1576 1607 1556 1607 1553 1607 1550 1607 1547 1607 1547 1610 1530 1625 1433 1604 1430 1604 1427 1604 1395 1619 1246 1604 1225 1604 1199 1604 1135 1619 1132 1619 1047 1601 1021 1601 991 1601 988 1601 813 1613 792 1599 786 1599 757 1599 754 1599 640 1610 640 1675 637 1683 2027 1707 2033 1695 2033 1634 1995 1613 1992 1613 1989 1613 1845 1631 1840 1631 1819 1613 1819 1610 1816 1610"/></Shape>
+	    <String CONTENT="celebrated Princeſs Palatine Elizabeth; not,"
+                    HPOS="637"
+                    VPOS="1599"
+                    WIDTH="1396"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c612324"
+                    TAGREFS="LT1235"
+                    BASELINE="640 1756 2036 1774" 
+                    HPOS="637"
+                    VPOS="1683"
+                    WIDTH="1399"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1805 1692 1802 1692 1799 1692 1796 1692 1793 1692 1772 1707 1705 1692 1702 1692 1632 1707 1623 1707 1617 1707 1573 1689 1570 1689 1568 1689 1430 1704 1413 1704 1389 1704 1190 1686 1187 1686 1184 1686 1158 1701 1155 1701 1152 1701 1108 1683 1105 1683 1102 1683 640 1692 640 1756 637 1765 2030 1780 2036 1774 2036 1713 1837 1713 1831 1710 1807 1692 1805 1692"/></Shape>
+	    <String CONTENT="ſaid he, becauſe ſhe was a Princeſs, for true"
+                    HPOS="637"
+                    VPOS="1683"
+                    WIDTH="1399"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20f71d89"
+                    TAGREFS="LT1235"
+                    BASELINE="637 1832 2033 1850" 
+                    HPOS="634"
+                    VPOS="1759"
+                    WIDTH="1399"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1945 1774 1942 1774 1904 1789 1901 1789 1696 1789 1696 1786 1682 1774 1682 1771 1679 1771 1676 1771 1673 1771 1670 1771 1667 1771 1647 1786 1644 1786 1439 1786 1430 1783 1348 1768 1339 1768 1319 1765 1214 1780 1205 1780 1181 1765 1178 1765 1176 1765 1173 1765 880 1774 865 1762 865 1759 863 1759 860 1759 857 1759 637 1771 637 1832 634 1841 2027 1859 2033 1850 2030 1792 1948 1774 1945 1774"/></Shape>
+	    <String CONTENT="Philoſophers reſpect Princes, and never flat¬"
+                    HPOS="634"
+                    VPOS="1759"
+                    WIDTH="1399"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eaef3c39"
+                    TAGREFS="LT1235"
+                    BASELINE="640 1917 2036 1935" 
+                    HPOS="637"
+                    VPOS="1841"
+                    WIDTH="1399"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="640 1917 637 1926 2030 1941 2036 1935 2036 1873 1922 1856 1919 1856 1837 1870 1828 1870 1825 1870 1802 1853 1799 1853 1796 1853 1793 1853 1790 1853 1761 1868 1726 1853 1723 1853 1720 1853 1547 1865 1532 1853 1532 1850 1530 1850 1527 1850 1524 1850 1453 1865 1451 1865 1445 1865 1380 1850 1377 1850 1217 1862 1205 1862 1202 1862 1184 1847 1181 1847 1178 1847 1176 1847 1173 1847 1129 1862 1120 1862 1111 1862 1035 1844 1032 1844 1029 1844 988 1859 985 1859 974 1859 813 1841 810 1841 640 1853 640 1917"/></Shape>
+	    <String CONTENT="ter them; but becauſe, of all his Readers"
+                    HPOS="637"
+                    VPOS="1841"
+                    WIDTH="1399"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41b34f1e"
+                    TAGREFS="LT1235"
+                    BASELINE="643 1996 2039 2014" 
+                    HPOS="640"
+                    VPOS="1920"
+                    WIDTH="1399"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1790 1932 1784 1941 1772 1952 1614 1952 1606 1941 1597 1935 1597 1932 1594 1932 1591 1932 1588 1932 1541 1941 1524 1944 1512 1941 1483 1929 1480 1929 1477 1929 1474 1929 1453 1941 1439 1946 1410 1941 1357 1929 1354 1929 1351 1929 1313 1941 1293 1944 1260 1941 1170 1926 1167 1926 1164 1926 1161 1926 1161 1929 1149 1938 1146 1944 1140 1938 1117 1926 1111 1926 1088 1923 746 1938 710 1938 693 1923 693 1920 690 1920 687 1920 684 1920 681 1920 643 1935 643 1996 640 2005 2033 2025 2039 2014 2033 1944 1913 1952 1878 1941 1866 1938 1863 1938 1860 1938 1857 1938 1848 1941 1831 1952 1819 1941 1810 1932 1790 1932"/></Shape>
+	    <String CONTENT="ſhe underſtood him the beſt, and loved"
+                    HPOS="640"
+                    VPOS="1920"
+                    WIDTH="1399"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_442a61a9"
+                  TAGREFS="LT1235"
+                    BASELINE="661 2075 1196 2075" 
+                    HPOS="658"
+                    VPOS="2002"
+                    WIDTH="535"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1155 2002 1152 2002 1149 2002 1094 2020 1088 2020 658 2005 658 2072 658 2087 1190 2090 1193 2072 1193 2020 1158 2002 1155 2002"/></Shape>
+	    <String CONTENT="Thruth the moſt."
+                    HPOS="658"
+                    VPOS="2002"
+                    WIDTH="535"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1973"
+                   VPOS="2164"
+                   WIDTH="101"
+                   HEIGHT="100"
+                   ID="eSc_textblock_b65b28cc"
+                   TAGREFS="BT3593">
+          <Shape><Polygon POINTS="1973 2164 1973 2264 2068 2264 2074 2164"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_22256e76"
+                    TAGREFS="LT1235"
+                    BASELINE="1991 2243 2056 2245" 
+                    HPOS="1989"
+                    VPOS="2174"
+                    WIDTH="64"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1989 2242 1989 2253 2053 2253 2053 2242 2053 2174 1989 2174 1989 2242"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="1989"
+                    VPOS="2174"
+                    WIDTH="64"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
