@@ -40,13 +40,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 117972
+  count: 151402
 - metric: files
-  count: 120
+  count: 160
 - metric: lines
-  count: 3500
+  count: 4500
 - metric: regions
-  count: 464
+  count: 624
 transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisations\
   \ du projet Gallicorpora"
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-18e-siecle/CITATION.cff
@@ -57,18 +57,18 @@ characters:
   - e
   - a
   - i
-  - n
   - r
   - u
+  - n
   - t
   - s
   - o
   - l
   - d
   - "\u017F"
-  - m
   - c
   - p
+  - m
   - ','
   - v
   - q
@@ -80,69 +80,71 @@ characters:
   - E
   - h
   - b
-  - j
-  - "\xAC"
   - "\u0300"
-  - '&'
+  - "\xAC"
   - A
-  - y
+  - j
+  - '&'
   - x
   - I
-  - C
-  - M
+  - y
   - L
-  - N
-  - R
+  - C
   - S
+  - M
+  - R
+  - N
   - P
-  - O
   - ''''
-  - '-'
-  - "\u0302"
   - D
+  - O
+  - "\u0302"
+  - '-'
   - T
   - ;
   - U
   - V
-  - z
-  - G
-  - J
-  - B
-  - H
-  - Q
   - F
-  - "\u0308"
+  - z
+  - H
+  - J
+  - G
+  - B
+  - Q
   - '1'
+  - "\u0308"
   - ':'
   - "\u0327"
   - '0'
-  - '?'
   - (
   - )
-  - "\u0153"
-  - '6'
-  - '5'
+  - '?'
   - '2'
-  - '!'
+  - "\u0153"
+  - '5'
   - '3'
-  - '4'
-  - '8'
-  - '7'
-  - Y
+  - '6'
   - '*'
+  - '4'
+  - '!'
+  - Y
+  - '7'
+  - '8'
+  - w
   - '9'
   - Z
-  - "\xAB"
   - K
   - X
-  - "\u02B3"
+  - "\xAB"
   - k
+  - "\u02B3"
   - "\xE6"
-  - w
   - "\xDF"
   - "\u1D49"
   - "\u02E2"
   - "\xC6"
+  - "\u2020"
+  - W
   - "\u15C5"
   - "\u1D4D"
   - "\u207F"
