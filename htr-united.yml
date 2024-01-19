@@ -147,7 +147,6 @@ characters:
   - °
   - ᗞ
   mode: NFD
-citation-file-link: https://github.com/Gallicorpora/HTR-imprime-18e-siecle/CITATION.cff
 description: Corpus d'entrainement pour l'HTR constitué d'imprimés du 18e siècle
 format: Alto-XML
 hands:
