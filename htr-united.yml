@@ -1,25 +1,20 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: "Donn\xE9es imprim\xE9s du 18e si\xE8cle"
-description: "Corpus d'entrainement pour l'HTR constitu\xE9 d'imprim\xE9s du 18e si\xE8\
-  cle"
-url: https://github.com/Gallicorpora/HTR-imprime-18e-siecle
 authors:
 - name: Gabay
+  roles:
+  - project-manager
   surname: Simon
-  roles:
-  - project-manager
 - name: Pinche
-  surname: Ariane
   roles:
   - project-manager
+  surname: Ariane
 - name: Fabert
-  surname: Eliott
   roles:
   - transcriber
+  surname: Eliott
 - name: Christensen
-  surname: Kelly
   roles:
   - support
+<<<<<<< HEAD
 project-name: Gallicorpora
 project-website: https://github.com/Gallicorpora
 language:
@@ -30,7 +25,7 @@ script:
 script-type: only-typed
 time:
   notBefore: '1699'
-  notAfter: '1800'
+  notAfter: '1700'
 hands:
   count: 1-per-folder
   precision: estimated
@@ -51,8 +46,10 @@ transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisat
   \ du projet Gallicorpora"
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-18e-siecle/CITATION.cff
 production-software: eScriptorium + Kraken
+=======
+  surname: Kelly
+>>>>>>> refs/remotes/origin/main
 characters:
-  mode: NFD
   members:
   - e
   - a
@@ -65,23 +62,23 @@ characters:
   - o
   - l
   - d
-  - "\u017F"
+  - ſ
   - c
   - p
   - m
   - ','
   - v
   - q
-  - "\u0301"
+  - ́
   - .
-  - "\u2019"
+  - ’
   - f
   - g
   - E
   - h
   - b
-  - "\u0300"
-  - "\xAC"
+  - ̀
+  - ¬
   - A
   - j
   - '&'
@@ -95,10 +92,10 @@ characters:
   - R
   - N
   - P
-  - ''''
+  - "'"
   - D
   - O
-  - "\u0302"
+  - ̂
   - '-'
   - T
   - ;
@@ -112,15 +109,15 @@ characters:
   - B
   - Q
   - '1'
-  - "\u0308"
+  - ̈
   - ':'
-  - "\u0327"
+  - ̧
   - '0'
   - (
   - )
   - '?'
   - '2'
-  - "\u0153"
+  - œ
   - '5'
   - '3'
   - '6'
@@ -135,21 +132,57 @@ characters:
   - Z
   - K
   - X
-  - "\xAB"
+  - «
   - k
-  - "\u02B3"
-  - "\xE6"
-  - "\xDF"
-  - "\u1D49"
-  - "\u02E2"
-  - "\xC6"
-  - "\u2020"
+  - ʳ
+  - æ
+  - ß
+  - ᵉ
+  - ˢ
+  - Æ
+  - †
   - W
-  - "\u15C5"
-  - "\u1D4D"
-  - "\u207F"
-  - "\u1D58"
-  - "\u0152"
-  - "\xBB"
-  - "\xB0"
-  - "\u15DE"
+  - ᗅ
+  - ᵍ
+  - ⁿ
+  - ᵘ
+  - Œ
+  - »
+  - °
+  - ᗞ
+  mode: NFD
+citation-file-link: https://github.com/Gallicorpora/HTR-imprime-18e-siecle/CITATION.cff
+description: Corpus d'entrainement pour l'HTR constitué d'imprimés du 18e siècle
+format: Alto-XML
+hands:
+  count: 1-per-folder
+  precision: estimated
+language:
+- frm
+- fra
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: Gallicorpora
+project-website: https://github.com/Gallicorpora
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1700'
+  notBefore: '1699'
+title: Données imprimés du 18e siècle
+transcription-guidelines: Les normes de transcription suivent les préconisations du
+  projet Gallicorpora
+url: https://github.com/Gallicorpora/HTR-imprime-18e-siecle
+volume:
+- count: 151402
+  metric: characters
+- count: 160
+  metric: files
+- count: 4500
+  metric: lines
+- count: 624
+  metric: regions
