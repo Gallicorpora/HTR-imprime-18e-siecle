@@ -1,3 +1,7 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: Données imprimés du 18e siècle
+url: https://github.com/Gallicorpora/HTR-imprime-18e-siecle
+description: Corpus d'entrainement pour l'HTR constitué d'imprimés du 18e siècle
 authors:
 - name: Gabay
   roles:
@@ -147,31 +151,6 @@ characters:
   - °
   - ᗞ
   mode: NFD
-description: Corpus d'entrainement pour l'HTR constitué d'imprimés du 18e siècle
-format: Alto-XML
-hands:
-  count: 1-per-folder
-  precision: estimated
-language:
-- frm
-- fra
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-production-software: eScriptorium + Kraken
-project-name: Gallicorpora
-project-website: https://github.com/Gallicorpora
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-script:
-- iso: Latn
-script-type: only-typed
-time:
-  notAfter: '1700'
-  notBefore: '1699'
-title: Données imprimés du 18e siècle
-transcription-guidelines: Les normes de transcription suivent les préconisations du
-  projet Gallicorpora
-url: https://github.com/Gallicorpora/HTR-imprime-18e-siecle
 volume:
 - count: 151402
   metric: characters
