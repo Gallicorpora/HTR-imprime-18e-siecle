@@ -38,7 +38,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-08-26"/>
+        <date when="2024-01-19"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -91,17 +91,13 @@
             <ptr target="https://github.com/segmonto"/>
           </bibl>
           <category xml:id="SegmOntoZones">
+            <catDesc xml:id="NumberingZone">
+              <title>NumberingZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            </catDesc>
             <catDesc xml:id="QuireMarksZone">
               <title>QuireMarksZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
-            </catDesc>
-            <catDesc xml:id="DamageZone">
-              <title>DamageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
-            </catDesc>
-            <catDesc xml:id="MainZone">
-              <title>MainZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
             </catDesc>
             <catDesc xml:id="TitlePageZone">
               <title>TitlePageZone</title>
@@ -111,9 +107,9 @@
               <title>DropCapitalZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
             </catDesc>
-            <catDesc xml:id="NumberingZone">
-              <title>NumberingZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            <catDesc xml:id="RunningTitleZone">
+              <title>RunningTitleZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
             </catDesc>
             <catDesc xml:id="SealZone">
               <title>SealZone</title>
@@ -127,27 +123,31 @@
               <title>StampZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
             </catDesc>
-            <catDesc xml:id="RunningTitleZone">
-              <title>RunningTitleZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
+            <catDesc xml:id="DamageZone">
+              <title>DamageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            </catDesc>
+            <catDesc xml:id="MainZone">
+              <title>MainZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
             </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
-            <catDesc xml:id="InterlinearLine">
-              <title>InterlinearLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
-            </catDesc>
             <catDesc xml:id="DefaultLine">
               <title>DefaultLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/DefaultLine"/>
+            </catDesc>
+            <catDesc xml:id="DropCapitalLine">
+              <title>DropCapitalLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
             </catDesc>
             <catDesc xml:id="HeadingLine">
               <title>HeadingLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/HeadingLine"/>
             </catDesc>
-            <catDesc xml:id="DropCapitalLine">
-              <title>DropCapitalLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
+            <catDesc xml:id="InterlinearLine">
+              <title>InterlinearLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
             </catDesc>
           </category>
         </taxonomy>
