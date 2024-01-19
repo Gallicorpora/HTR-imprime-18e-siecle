@@ -30,7 +30,7 @@ script:
 script-type: only-typed
 time:
   notBefore: '1699'
-  notAfter: '1700'
+  notAfter: '1800'
 hands:
   count: 1-per-folder
   precision: estimated
