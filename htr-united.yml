@@ -23,8 +23,8 @@ script:
 - iso: Latn
 script-type: only-typed
 time:
-  notBefore: '1699'
-  notAfter: '1800'
+  notBefore: '1700'
+  notAfter: '1799'
 hands:
   count: 1-per-folder
   precision: estimated
