@@ -14,7 +14,6 @@ authors:
 - name: Christensen
   roles:
   - support
-<<<<<<< HEAD
 project-name: Gallicorpora
 project-website: https://github.com/Gallicorpora
 language:
@@ -25,7 +24,7 @@ script:
 script-type: only-typed
 time:
   notBefore: '1699'
-  notAfter: '1700'
+  notAfter: '1800'
 hands:
   count: 1-per-folder
   precision: estimated
@@ -46,9 +45,6 @@ transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisat
   \ du projet Gallicorpora"
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-18e-siecle/CITATION.cff
 production-software: eScriptorium + Kraken
-=======
-  surname: Kelly
->>>>>>> refs/remotes/origin/main
 characters:
   members:
   - e
